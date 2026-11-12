@@ -29,7 +29,7 @@ jobs:
     env:
       EMOJI_PICKER_IDENTITY: Emoji Picker Release Signing
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Choose where the signing keychain goes
         run: echo "EMOJI_PICKER_KEYCHAIN=$RUNNER_TEMP/release-signing.keychain-db" >> "$GITHUB_ENV"
@@ -101,7 +101,7 @@ jobs:
 
       - name: Attach the build to the run
         if: github.ref_type != 'tag'
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: EmojiPicker-${{ steps.version.outputs.version }}
           path: ${{ steps.package.outputs.zip }}

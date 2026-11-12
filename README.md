@@ -6,7 +6,7 @@ A macOS menu-bar emoji picker modelled on the Windows one. Press **Opt + `.`**, 
 
 Needs macOS 14 (Sonoma) or later, on an Apple Silicon or Intel Mac.
 
-1. Download the latest `EmojiPicker-<version>.zip` from the repository's **Releases** page and double-click it to unzip.
+1. Download the latest `EmojiPicker-<version>.zip` from the [Releases page](https://github.com/VaticanUK/emoji-picker/releases/latest) and double-click it to unzip.
 2. Move **EmojiPicker.app** to your Applications folder.
 3. Open it. macOS will say it can't verify the app, because releases are signed with this project's own certificate rather than a paid Apple Developer ID. Click **Done**, then open System Settings → Privacy & Security, scroll down to the message about EmojiPicker, click **Open Anyway** and confirm. (Or, in Terminal: `xattr -dr com.apple.quarantine /Applications/EmojiPicker.app`.)
 4. Carry on from [First launch](#6-first-launch).
@@ -42,7 +42,7 @@ If it reports an older version, update the Command Line Tools in System Settings
 ### 2. Get the code
 
 ```sh
-git clone <repo-url> emoji-picker
+git clone https://github.com/VaticanUK/emoji-picker.git
 cd emoji-picker
 ```
 
