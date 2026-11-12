@@ -1,0 +1,111 @@
+# Builds, signs and publishes a release when a version tag is pushed:
+#
+#   git tag v1.0.0 && git push origin v1.0.0
+#
+# Running it by hand from the Actions tab builds the app and attaches the zip to the run instead
+# of publishing a release.
+#
+# Needs two repository secrets, made by Scripts/create-release-certificate.sh:
+#   MACOS_CERT_P12        the release certificate, base64-encoded
+#   MACOS_CERT_PASSWORD   its password
+name: Release
+
+on:
+  push:
+    tags: ["v*"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: release-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: macos-latest
+    timeout-minutes: 30
+    env:
+      EMOJI_PICKER_IDENTITY: Emoji Picker Release Signing
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Choose where the signing keychain goes
+        run: echo "EMOJI_PICKER_KEYCHAIN=$RUNNER_TEMP/release-signing.keychain-db" >> "$GITHUB_ENV"
+
+      - name: Show toolchain
+        run: |
+          sw_vers
+          swift --version
+
+      - name: Run tests
+        run: swift test -j 1
+
+      - name: Import signing certificate
+        env:
+          MACOS_CERT_P12: ${{ secrets.MACOS_CERT_P12 }}
+          MACOS_CERT_PASSWORD: ${{ secrets.MACOS_CERT_PASSWORD }}
+        run: |
+          if [[ -z "$MACOS_CERT_P12" || -z "$MACOS_CERT_PASSWORD" ]]; then
+            echo "::error::Secrets MACOS_CERT_P12 and MACOS_CERT_PASSWORD aren't set. Run Scripts/create-release-certificate.sh and follow its instructions."
+            exit 1
+          fi
+          P12="$RUNNER_TEMP/release-signing.p12"
+          printf '%s' "$MACOS_CERT_P12" | base64 --decode > "$P12"
+          EMOJI_PICKER_P12="$P12" EMOJI_PICKER_P12_PASSWORD="$MACOS_CERT_PASSWORD" \
+            Scripts/create-signing-identity.sh
+          rm -f "$P12"
+
+      - name: Work out the version
+        id: version
+        run: |
+          if [[ "$GITHUB_REF_TYPE" == tag ]]; then
+            echo "version=${GITHUB_REF_NAME#v}" >> "$GITHUB_OUTPUT"
+          else
+            echo "version=0.0.${GITHUB_RUN_NUMBER}" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Build
+        env:
+          UNIVERSAL: "1"
+          REQUIRE_SIGNING: "1"
+          APP_VERSION: ${{ steps.version.outputs.version }}
+          APP_BUILD: ${{ github.run_number }}
+        run: Scripts/make-app.sh release
+
+      - name: Check the signature
+        run: |
+          codesign --verify --deep --strict build/EmojiPicker.app
+          codesign -d -r- build/EmojiPicker.app 2>&1 | tee requirement.txt
+          grep -q 'certificate leaf' requirement.txt
+          lipo -archs build/EmojiPicker.app/Contents/MacOS/EmojiPicker
+
+      - name: Package
+        id: package
+        run: |
+          ZIP="EmojiPicker-${{ steps.version.outputs.version }}.zip"
+          ditto -c -k --keepParent build/EmojiPicker.app "$ZIP"
+          shasum -a 256 "$ZIP" | tee "$ZIP.sha256"
+          echo "zip=$ZIP" >> "$GITHUB_OUTPUT"
+
+      - name: Publish the release
+        if: github.ref_type == 'tag'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "$GITHUB_REF_NAME" \
+            "${{ steps.package.outputs.zip }}" "${{ steps.package.outputs.zip }}.sha256" \
+            --title "Emoji Picker ${{ steps.version.outputs.version }}" \
+            --generate-notes
+
+      - name: Attach the build to the run
+        if: github.ref_type != 'tag'
+        uses: actions/upload-artifact@v4
+        with:
+          name: EmojiPicker-${{ steps.version.outputs.version }}
+          path: ${{ steps.package.outputs.zip }}
+
+      - name: Remove the signing keychain
+        if: always()
+        run: security delete-keychain "$EMOJI_PICKER_KEYCHAIN" 2>/dev/null || true

@@ -1,0 +1,6591 @@
+[
+{
+"title": "General punctuation",
+"items": [
+{
+"s": "†",
+"k": [
+"dagger"
+]
+},
+{
+"s": "‡",
+"k": [
+"double",
+"dagger"
+]
+},
+{
+"s": "•",
+"k": [
+"bullet",
+"dot"
+]
+},
+{
+"s": "‣",
+"k": [
+"triangular",
+"bullet"
+]
+},
+{
+"s": "‥",
+"k": [
+"two",
+"dot",
+"leader"
+]
+},
+{
+"s": "…",
+"k": [
+"ellipsis",
+"dots",
+"horizontal"
+]
+},
+{
+"s": "‰",
+"k": [
+"per",
+"mille"
+]
+},
+{
+"s": "′",
+"k": [
+"prime"
+]
+},
+{
+"s": "″",
+"k": [
+"double",
+"prime"
+]
+},
+{
+"s": "‴",
+"k": [
+"triple",
+"prime"
+]
+},
+{
+"s": "‹",
+"k": [
+"single",
+"left-pointing",
+"angle",
+"quotation",
+"mark"
+]
+},
+{
+"s": "›",
+"k": [
+"single",
+"right-pointing",
+"angle",
+"quotation",
+"mark"
+]
+},
+{
+"s": "«",
+"k": [
+"guillemet",
+"quote",
+"left-pointing",
+"double",
+"angle",
+"quotation",
+"mark"
+]
+},
+{
+"s": "»",
+"k": [
+"guillemet",
+"quote",
+"right-pointing",
+"double",
+"angle",
+"quotation",
+"mark"
+]
+},
+{
+"s": "‘",
+"k": [
+"quote",
+"apostrophe",
+"left",
+"single",
+"quotation",
+"mark"
+]
+},
+{
+"s": "’",
+"k": [
+"quote",
+"apostrophe",
+"right",
+"single",
+"quotation",
+"mark"
+]
+},
+{
+"s": "‚",
+"k": [
+"single",
+"low-9",
+"quotation",
+"mark"
+]
+},
+{
+"s": "“",
+"k": [
+"quote",
+"left",
+"double",
+"quotation",
+"mark"
+]
+},
+{
+"s": "”",
+"k": [
+"quote",
+"right",
+"double",
+"quotation",
+"mark"
+]
+},
+{
+"s": "„",
+"k": [
+"double",
+"low-9",
+"quotation",
+"mark"
+]
+},
+{
+"s": "¡",
+"k": [
+"inverted",
+"exclamation",
+"mark"
+]
+},
+{
+"s": "¿",
+"k": [
+"inverted",
+"question",
+"mark"
+]
+},
+{
+"s": "¶",
+"k": [
+"pilcrow",
+"paragraph",
+"sign"
+]
+},
+{
+"s": "§",
+"k": [
+"section",
+"sign"
+]
+},
+{
+"s": "©",
+"k": [
+"copyright",
+"sign"
+]
+},
+{
+"s": "®",
+"k": [
+"registered",
+"sign"
+]
+},
+{
+"s": "™",
+"k": [
+"trademark",
+"tm",
+"trade",
+"mark",
+"sign"
+]
+},
+{
+"s": "№",
+"k": [
+"numero",
+"number",
+"sign"
+]
+},
+{
+"s": "‽",
+"k": [
+"interrobang"
+]
+},
+{
+"s": "‼",
+"k": [
+"double",
+"exclamation",
+"mark"
+]
+},
+{
+"s": "⁇",
+"k": [
+"double",
+"question",
+"mark"
+]
+},
+{
+"s": "⁈",
+"k": [
+"question",
+"exclamation",
+"mark"
+]
+},
+{
+"s": "⁉",
+"k": [
+"exclamation",
+"question",
+"mark"
+]
+},
+{
+"s": "※",
+"k": [
+"reference",
+"mark"
+]
+},
+{
+"s": "‐",
+"k": [
+"hyphen"
+]
+},
+{
+"s": "‑",
+"k": [
+"non-breaking",
+"hyphen"
+]
+},
+{
+"s": "‒",
+"k": [
+"figure",
+"dash"
+]
+},
+{
+"s": "–",
+"k": [
+"en",
+"dash"
+]
+},
+{
+"s": "—",
+"k": [
+"em",
+"dash"
+]
+},
+{
+"s": "―",
+"k": [
+"horizontal",
+"bar"
+]
+},
+{
+"s": "¦",
+"k": [
+"broken",
+"bar"
+]
+},
+{
+"s": "·",
+"k": [
+"middle",
+"dot"
+]
+},
+{
+"s": "¨",
+"k": [
+"diaeresis"
+]
+},
+{
+"s": "´",
+"k": [
+"acute",
+"accent"
+]
+},
+{
+"s": "¸",
+"k": [
+"cedilla"
+]
+},
+{
+"s": "ˆ",
+"k": [
+"modifier",
+"letter",
+"circumflex",
+"accent"
+]
+},
+{
+"s": "˜",
+"k": [
+"small",
+"tilde"
+]
+},
+{
+"s": "‾",
+"k": [
+"overline"
+]
+}
+]
+},
+{
+"title": "Currency",
+"items": [
+{
+"s": "$",
+"k": [
+"dollar",
+"usd",
+"money",
+"sign"
+]
+},
+{
+"s": "¢",
+"k": [
+"cent",
+"money",
+"sign"
+]
+},
+{
+"s": "£",
+"k": [
+"pound",
+"gbp",
+"sterling",
+"money",
+"sign"
+]
+},
+{
+"s": "¤",
+"k": [
+"currency"
+]
+},
+{
+"s": "¥",
+"k": [
+"yen",
+"yuan",
+"jpy",
+"cny",
+"money",
+"sign"
+]
+},
+{
+"s": "€",
+"k": [
+"euro",
+"eur",
+"money",
+"sign"
+]
+},
+{
+"s": "₠",
+"k": [
+"euro-currency"
+]
+},
+{
+"s": "₡",
+"k": [
+"colon"
+]
+},
+{
+"s": "₢",
+"k": [
+"cruzeiro"
+]
+},
+{
+"s": "₣",
+"k": [
+"french",
+"franc"
+]
+},
+{
+"s": "₤",
+"k": [
+"lira"
+]
+},
+{
+"s": "₥",
+"k": [
+"mill"
+]
+},
+{
+"s": "₦",
+"k": [
+"naira"
+]
+},
+{
+"s": "₧",
+"k": [
+"peseta"
+]
+},
+{
+"s": "₨",
+"k": [
+"rupee"
+]
+},
+{
+"s": "₩",
+"k": [
+"won",
+"krw",
+"money",
+"sign"
+]
+},
+{
+"s": "₪",
+"k": [
+"shekel",
+"new",
+"sheqel",
+"ils",
+"money",
+"sign"
+]
+},
+{
+"s": "₫",
+"k": [
+"dong",
+"vnd",
+"money",
+"sign"
+]
+},
+{
+"s": "₭",
+"k": [
+"kip"
+]
+},
+{
+"s": "₮",
+"k": [
+"tugrik"
+]
+},
+{
+"s": "₯",
+"k": [
+"drachma"
+]
+},
+{
+"s": "₰",
+"k": [
+"german",
+"penny"
+]
+},
+{
+"s": "₱",
+"k": [
+"peso"
+]
+},
+{
+"s": "₲",
+"k": [
+"guarani"
+]
+},
+{
+"s": "₳",
+"k": [
+"austral"
+]
+},
+{
+"s": "₴",
+"k": [
+"hryvnia"
+]
+},
+{
+"s": "₵",
+"k": [
+"cedi"
+]
+},
+{
+"s": "₶",
+"k": [
+"livre",
+"tournois"
+]
+},
+{
+"s": "₷",
+"k": [
+"spesmilo"
+]
+},
+{
+"s": "₸",
+"k": [
+"tenge"
+]
+},
+{
+"s": "₹",
+"k": [
+"rupee",
+"inr",
+"money",
+"indian",
+"sign"
+]
+},
+{
+"s": "₺",
+"k": [
+"lira",
+"try",
+"money",
+"turkish",
+"sign"
+]
+},
+{
+"s": "₻",
+"k": [
+"nordic",
+"mark"
+]
+},
+{
+"s": "₼",
+"k": [
+"manat"
+]
+},
+{
+"s": "₽",
+"k": [
+"ruble",
+"rouble",
+"rub",
+"money",
+"sign"
+]
+},
+{
+"s": "₾",
+"k": [
+"lari"
+]
+},
+{
+"s": "₿",
+"k": [
+"bitcoin",
+"btc",
+"crypto",
+"money",
+"sign"
+]
+},
+{
+"s": "฿",
+"k": [
+"baht",
+"thb",
+"money",
+"thai",
+"currency",
+"symbol"
+]
+},
+{
+"s": "৳",
+"k": [
+"bengali",
+"rupee"
+]
+},
+{
+"s": "﷼",
+"k": [
+"rial"
+]
+},
+{
+"s": "៛",
+"k": [
+"khmer",
+"currency",
+"symbol",
+"riel"
+]
+}
+]
+},
+{
+"title": "Latin",
+"items": [
+{
+"s": "À",
+"k": [
+"latin",
+"capital",
+"letter",
+"a",
+"grave"
+]
+},
+{
+"s": "Á",
+"k": [
+"latin",
+"capital",
+"letter",
+"a",
+"acute"
+]
+},
+{
+"s": "Â",
+"k": [
+"latin",
+"capital",
+"letter",
+"a",
+"circumflex"
+]
+},
+{
+"s": "Ã",
+"k": [
+"latin",
+"capital",
+"letter",
+"a",
+"tilde"
+]
+},
+{
+"s": "Ä",
+"k": [
+"latin",
+"capital",
+"letter",
+"a",
+"diaeresis"
+]
+},
+{
+"s": "Å",
+"k": [
+"latin",
+"capital",
+"letter",
+"a",
+"ring",
+"above"
+]
+},
+{
+"s": "Æ",
+"k": [
+"ae",
+"ash",
+"latin",
+"capital",
+"letter"
+]
+},
+{
+"s": "Ç",
+"k": [
+"latin",
+"capital",
+"letter",
+"c",
+"cedilla"
+]
+},
+{
+"s": "È",
+"k": [
+"latin",
+"capital",
+"letter",
+"e",
+"grave"
+]
+},
+{
+"s": "É",
+"k": [
+"latin",
+"capital",
+"letter",
+"e",
+"acute"
+]
+},
+{
+"s": "Ê",
+"k": [
+"latin",
+"capital",
+"letter",
+"e",
+"circumflex"
+]
+},
+{
+"s": "Ë",
+"k": [
+"latin",
+"capital",
+"letter",
+"e",
+"diaeresis"
+]
+},
+{
+"s": "Ì",
+"k": [
+"latin",
+"capital",
+"letter",
+"i",
+"grave"
+]
+},
+{
+"s": "Í",
+"k": [
+"latin",
+"capital",
+"letter",
+"i",
+"acute"
+]
+},
+{
+"s": "Î",
+"k": [
+"latin",
+"capital",
+"letter",
+"i",
+"circumflex"
+]
+},
+{
+"s": "Ï",
+"k": [
+"latin",
+"capital",
+"letter",
+"i",
+"diaeresis"
+]
+},
+{
+"s": "Ð",
+"k": [
+"eth",
+"latin",
+"capital",
+"letter"
+]
+},
+{
+"s": "Ñ",
+"k": [
+"latin",
+"capital",
+"letter",
+"n",
+"tilde"
+]
+},
+{
+"s": "Ò",
+"k": [
+"latin",
+"capital",
+"letter",
+"o",
+"grave"
+]
+},
+{
+"s": "Ó",
+"k": [
+"latin",
+"capital",
+"letter",
+"o",
+"acute"
+]
+},
+{
+"s": "Ô",
+"k": [
+"latin",
+"capital",
+"letter",
+"o",
+"circumflex"
+]
+},
+{
+"s": "Õ",
+"k": [
+"latin",
+"capital",
+"letter",
+"o",
+"tilde"
+]
+},
+{
+"s": "Ö",
+"k": [
+"latin",
+"capital",
+"letter",
+"o",
+"diaeresis"
+]
+},
+{
+"s": "Ø",
+"k": [
+"o",
+"slash",
+"oe",
+"latin",
+"capital",
+"letter",
+"with",
+"stroke"
+]
+},
+{
+"s": "Ù",
+"k": [
+"latin",
+"capital",
+"letter",
+"u",
+"grave"
+]
+},
+{
+"s": "Ú",
+"k": [
+"latin",
+"capital",
+"letter",
+"u",
+"acute"
+]
+},
+{
+"s": "Û",
+"k": [
+"latin",
+"capital",
+"letter",
+"u",
+"circumflex"
+]
+},
+{
+"s": "Ü",
+"k": [
+"latin",
+"capital",
+"letter",
+"u",
+"diaeresis"
+]
+},
+{
+"s": "Ý",
+"k": [
+"latin",
+"capital",
+"letter",
+"y",
+"acute"
+]
+},
+{
+"s": "Þ",
+"k": [
+"thorn",
+"latin",
+"capital",
+"letter"
+]
+},
+{
+"s": "ß",
+"k": [
+"sharp",
+"s",
+"eszett",
+"german",
+"latin",
+"small",
+"letter"
+]
+},
+{
+"s": "à",
+"k": [
+"latin",
+"small",
+"letter",
+"a",
+"grave"
+]
+},
+{
+"s": "á",
+"k": [
+"latin",
+"small",
+"letter",
+"a",
+"acute"
+]
+},
+{
+"s": "â",
+"k": [
+"latin",
+"small",
+"letter",
+"a",
+"circumflex"
+]
+},
+{
+"s": "ã",
+"k": [
+"latin",
+"small",
+"letter",
+"a",
+"tilde"
+]
+},
+{
+"s": "ä",
+"k": [
+"latin",
+"small",
+"letter",
+"a",
+"diaeresis"
+]
+},
+{
+"s": "å",
+"k": [
+"latin",
+"small",
+"letter",
+"a",
+"ring",
+"above"
+]
+},
+{
+"s": "æ",
+"k": [
+"ae",
+"ash",
+"latin",
+"small",
+"letter"
+]
+},
+{
+"s": "ç",
+"k": [
+"latin",
+"small",
+"letter",
+"c",
+"cedilla"
+]
+},
+{
+"s": "è",
+"k": [
+"latin",
+"small",
+"letter",
+"e",
+"grave"
+]
+},
+{
+"s": "é",
+"k": [
+"latin",
+"small",
+"letter",
+"e",
+"acute"
+]
+},
+{
+"s": "ê",
+"k": [
+"latin",
+"small",
+"letter",
+"e",
+"circumflex"
+]
+},
+{
+"s": "ë",
+"k": [
+"latin",
+"small",
+"letter",
+"e",
+"diaeresis"
+]
+},
+{
+"s": "ì",
+"k": [
+"latin",
+"small",
+"letter",
+"i",
+"grave"
+]
+},
+{
+"s": "í",
+"k": [
+"latin",
+"small",
+"letter",
+"i",
+"acute"
+]
+},
+{
+"s": "î",
+"k": [
+"latin",
+"small",
+"letter",
+"i",
+"circumflex"
+]
+},
+{
+"s": "ï",
+"k": [
+"latin",
+"small",
+"letter",
+"i",
+"diaeresis"
+]
+},
+{
+"s": "ð",
+"k": [
+"eth",
+"latin",
+"small",
+"letter"
+]
+},
+{
+"s": "ñ",
+"k": [
+"latin",
+"small",
+"letter",
+"n",
+"tilde"
+]
+},
+{
+"s": "ò",
+"k": [
+"latin",
+"small",
+"letter",
+"o",
+"grave"
+]
+},
+{
+"s": "ó",
+"k": [
+"latin",
+"small",
+"letter",
+"o",
+"acute"
+]
+},
+{
+"s": "ô",
+"k": [
+"latin",
+"small",
+"letter",
+"o",
+"circumflex"
+]
+},
+{
+"s": "õ",
+"k": [
+"latin",
+"small",
+"letter",
+"o",
+"tilde"
+]
+},
+{
+"s": "ö",
+"k": [
+"latin",
+"small",
+"letter",
+"o",
+"diaeresis"
+]
+},
+{
+"s": "ø",
+"k": [
+"o",
+"slash",
+"oe",
+"latin",
+"small",
+"letter",
+"with",
+"stroke"
+]
+},
+{
+"s": "ù",
+"k": [
+"latin",
+"small",
+"letter",
+"u",
+"grave"
+]
+},
+{
+"s": "ú",
+"k": [
+"latin",
+"small",
+"letter",
+"u",
+"acute"
+]
+},
+{
+"s": "û",
+"k": [
+"latin",
+"small",
+"letter",
+"u",
+"circumflex"
+]
+},
+{
+"s": "ü",
+"k": [
+"latin",
+"small",
+"letter",
+"u",
+"diaeresis"
+]
+},
+{
+"s": "ý",
+"k": [
+"latin",
+"small",
+"letter",
+"y",
+"acute"
+]
+},
+{
+"s": "þ",
+"k": [
+"thorn",
+"latin",
+"small",
+"letter"
+]
+},
+{
+"s": "ÿ",
+"k": [
+"latin",
+"small",
+"letter",
+"y",
+"diaeresis"
+]
+},
+{
+"s": "Ā",
+"k": [
+"latin",
+"capital",
+"letter",
+"a",
+"macron"
+]
+},
+{
+"s": "ā",
+"k": [
+"latin",
+"small",
+"letter",
+"a",
+"macron"
+]
+},
+{
+"s": "Ă",
+"k": [
+"latin",
+"capital",
+"letter",
+"a",
+"breve"
+]
+},
+{
+"s": "ă",
+"k": [
+"latin",
+"small",
+"letter",
+"a",
+"breve"
+]
+},
+{
+"s": "Ą",
+"k": [
+"latin",
+"capital",
+"letter",
+"a",
+"ogonek"
+]
+},
+{
+"s": "ą",
+"k": [
+"latin",
+"small",
+"letter",
+"a",
+"ogonek"
+]
+},
+{
+"s": "Ć",
+"k": [
+"latin",
+"capital",
+"letter",
+"c",
+"acute"
+]
+},
+{
+"s": "ć",
+"k": [
+"latin",
+"small",
+"letter",
+"c",
+"acute"
+]
+},
+{
+"s": "Č",
+"k": [
+"latin",
+"capital",
+"letter",
+"c",
+"caron"
+]
+},
+{
+"s": "č",
+"k": [
+"latin",
+"small",
+"letter",
+"c",
+"caron"
+]
+},
+{
+"s": "Ď",
+"k": [
+"latin",
+"capital",
+"letter",
+"d",
+"caron"
+]
+},
+{
+"s": "ď",
+"k": [
+"latin",
+"small",
+"letter",
+"d",
+"caron"
+]
+},
+{
+"s": "Đ",
+"k": [
+"latin",
+"capital",
+"letter",
+"d",
+"stroke"
+]
+},
+{
+"s": "đ",
+"k": [
+"latin",
+"small",
+"letter",
+"d",
+"stroke"
+]
+},
+{
+"s": "Ē",
+"k": [
+"latin",
+"capital",
+"letter",
+"e",
+"macron"
+]
+},
+{
+"s": "ē",
+"k": [
+"latin",
+"small",
+"letter",
+"e",
+"macron"
+]
+},
+{
+"s": "Ę",
+"k": [
+"latin",
+"capital",
+"letter",
+"e",
+"ogonek"
+]
+},
+{
+"s": "ę",
+"k": [
+"latin",
+"small",
+"letter",
+"e",
+"ogonek"
+]
+},
+{
+"s": "Ě",
+"k": [
+"latin",
+"capital",
+"letter",
+"e",
+"caron"
+]
+},
+{
+"s": "ě",
+"k": [
+"latin",
+"small",
+"letter",
+"e",
+"caron"
+]
+},
+{
+"s": "Ğ",
+"k": [
+"latin",
+"capital",
+"letter",
+"g",
+"breve"
+]
+},
+{
+"s": "ğ",
+"k": [
+"latin",
+"small",
+"letter",
+"g",
+"breve"
+]
+},
+{
+"s": "Ī",
+"k": [
+"latin",
+"capital",
+"letter",
+"i",
+"macron"
+]
+},
+{
+"s": "ī",
+"k": [
+"latin",
+"small",
+"letter",
+"i",
+"macron"
+]
+},
+{
+"s": "İ",
+"k": [
+"latin",
+"capital",
+"letter",
+"i",
+"dot",
+"above"
+]
+},
+{
+"s": "ı",
+"k": [
+"dotless",
+"i",
+"turkish",
+"latin",
+"small",
+"letter"
+]
+},
+{
+"s": "Ł",
+"k": [
+"latin",
+"capital",
+"letter",
+"l",
+"stroke"
+]
+},
+{
+"s": "ł",
+"k": [
+"latin",
+"small",
+"letter",
+"l",
+"stroke"
+]
+},
+{
+"s": "Ń",
+"k": [
+"latin",
+"capital",
+"letter",
+"n",
+"acute"
+]
+},
+{
+"s": "ń",
+"k": [
+"latin",
+"small",
+"letter",
+"n",
+"acute"
+]
+},
+{
+"s": "Ň",
+"k": [
+"latin",
+"capital",
+"letter",
+"n",
+"caron"
+]
+},
+{
+"s": "ň",
+"k": [
+"latin",
+"small",
+"letter",
+"n",
+"caron"
+]
+},
+{
+"s": "Ō",
+"k": [
+"latin",
+"capital",
+"letter",
+"o",
+"macron"
+]
+},
+{
+"s": "ō",
+"k": [
+"latin",
+"small",
+"letter",
+"o",
+"macron"
+]
+},
+{
+"s": "Ő",
+"k": [
+"latin",
+"capital",
+"letter",
+"o",
+"double",
+"acute"
+]
+},
+{
+"s": "ő",
+"k": [
+"latin",
+"small",
+"letter",
+"o",
+"double",
+"acute"
+]
+},
+{
+"s": "Œ",
+"k": [
+"oe",
+"ligature",
+"latin",
+"capital"
+]
+},
+{
+"s": "œ",
+"k": [
+"oe",
+"ligature",
+"latin",
+"small"
+]
+},
+{
+"s": "Ř",
+"k": [
+"latin",
+"capital",
+"letter",
+"r",
+"caron"
+]
+},
+{
+"s": "ř",
+"k": [
+"latin",
+"small",
+"letter",
+"r",
+"caron"
+]
+},
+{
+"s": "Ś",
+"k": [
+"latin",
+"capital",
+"letter",
+"s",
+"acute"
+]
+},
+{
+"s": "ś",
+"k": [
+"latin",
+"small",
+"letter",
+"s",
+"acute"
+]
+},
+{
+"s": "Ş",
+"k": [
+"latin",
+"capital",
+"letter",
+"s",
+"cedilla"
+]
+},
+{
+"s": "ş",
+"k": [
+"latin",
+"small",
+"letter",
+"s",
+"cedilla"
+]
+},
+{
+"s": "Š",
+"k": [
+"latin",
+"capital",
+"letter",
+"s",
+"caron"
+]
+},
+{
+"s": "š",
+"k": [
+"latin",
+"small",
+"letter",
+"s",
+"caron"
+]
+},
+{
+"s": "Ţ",
+"k": [
+"latin",
+"capital",
+"letter",
+"t",
+"cedilla"
+]
+},
+{
+"s": "ţ",
+"k": [
+"latin",
+"small",
+"letter",
+"t",
+"cedilla"
+]
+},
+{
+"s": "Ť",
+"k": [
+"latin",
+"capital",
+"letter",
+"t",
+"caron"
+]
+},
+{
+"s": "ť",
+"k": [
+"latin",
+"small",
+"letter",
+"t",
+"caron"
+]
+},
+{
+"s": "Ū",
+"k": [
+"latin",
+"capital",
+"letter",
+"u",
+"macron"
+]
+},
+{
+"s": "ū",
+"k": [
+"latin",
+"small",
+"letter",
+"u",
+"macron"
+]
+},
+{
+"s": "Ů",
+"k": [
+"latin",
+"capital",
+"letter",
+"u",
+"ring",
+"above"
+]
+},
+{
+"s": "ů",
+"k": [
+"latin",
+"small",
+"letter",
+"u",
+"ring",
+"above"
+]
+},
+{
+"s": "Ű",
+"k": [
+"latin",
+"capital",
+"letter",
+"u",
+"double",
+"acute"
+]
+},
+{
+"s": "ű",
+"k": [
+"latin",
+"small",
+"letter",
+"u",
+"double",
+"acute"
+]
+},
+{
+"s": "Ÿ",
+"k": [
+"latin",
+"capital",
+"letter",
+"y",
+"diaeresis"
+]
+},
+{
+"s": "Ź",
+"k": [
+"latin",
+"capital",
+"letter",
+"z",
+"acute"
+]
+},
+{
+"s": "ź",
+"k": [
+"latin",
+"small",
+"letter",
+"z",
+"acute"
+]
+},
+{
+"s": "Ż",
+"k": [
+"latin",
+"capital",
+"letter",
+"z",
+"dot",
+"above"
+]
+},
+{
+"s": "ż",
+"k": [
+"latin",
+"small",
+"letter",
+"z",
+"dot",
+"above"
+]
+},
+{
+"s": "Ž",
+"k": [
+"latin",
+"capital",
+"letter",
+"z",
+"caron"
+]
+},
+{
+"s": "ž",
+"k": [
+"latin",
+"small",
+"letter",
+"z",
+"caron"
+]
+}
+]
+},
+{
+"title": "Geometric",
+"items": [
+{
+"s": "■",
+"k": [
+"square",
+"black"
+]
+},
+{
+"s": "□",
+"k": [
+"square",
+"white"
+]
+},
+{
+"s": "▢",
+"k": [
+"square",
+"rounded",
+"corners"
+]
+},
+{
+"s": "▣",
+"k": [
+"square",
+"containing",
+"small"
+]
+},
+{
+"s": "▤",
+"k": [
+"square",
+"horizontal",
+"fill"
+]
+},
+{
+"s": "▥",
+"k": [
+"square",
+"vertical",
+"fill"
+]
+},
+{
+"s": "▦",
+"k": [
+"square",
+"orthogonal",
+"crosshatch",
+"fill"
+]
+},
+{
+"s": "▧",
+"k": [
+"square",
+"upper",
+"left",
+"to",
+"lower",
+"right",
+"fill"
+]
+},
+{
+"s": "▨",
+"k": [
+"square",
+"upper",
+"right",
+"to",
+"lower",
+"left",
+"fill"
+]
+},
+{
+"s": "▩",
+"k": [
+"square",
+"diagonal",
+"crosshatch",
+"fill"
+]
+},
+{
+"s": "▪",
+"k": [
+"small",
+"square"
+]
+},
+{
+"s": "▫",
+"k": [
+"small",
+"square"
+]
+},
+{
+"s": "▬",
+"k": [
+"rectangle"
+]
+},
+{
+"s": "▭",
+"k": [
+"rectangle"
+]
+},
+{
+"s": "▮",
+"k": [
+"vertical",
+"rectangle"
+]
+},
+{
+"s": "▯",
+"k": [
+"vertical",
+"rectangle"
+]
+},
+{
+"s": "▰",
+"k": [
+"parallelogram"
+]
+},
+{
+"s": "▱",
+"k": [
+"parallelogram"
+]
+},
+{
+"s": "▲",
+"k": [
+"triangle",
+"up",
+"black",
+"up-pointing"
+]
+},
+{
+"s": "△",
+"k": [
+"up-pointing",
+"triangle"
+]
+},
+{
+"s": "▴",
+"k": [
+"up-pointing",
+"small",
+"triangle"
+]
+},
+{
+"s": "▵",
+"k": [
+"up-pointing",
+"small",
+"triangle"
+]
+},
+{
+"s": "▶",
+"k": [
+"right-pointing",
+"triangle"
+]
+},
+{
+"s": "▷",
+"k": [
+"right-pointing",
+"triangle"
+]
+},
+{
+"s": "▸",
+"k": [
+"right-pointing",
+"small",
+"triangle"
+]
+},
+{
+"s": "▹",
+"k": [
+"right-pointing",
+"small",
+"triangle"
+]
+},
+{
+"s": "►",
+"k": [
+"right-pointing",
+"pointer"
+]
+},
+{
+"s": "▻",
+"k": [
+"right-pointing",
+"pointer"
+]
+},
+{
+"s": "▼",
+"k": [
+"triangle",
+"down",
+"black",
+"down-pointing"
+]
+},
+{
+"s": "▽",
+"k": [
+"down-pointing",
+"triangle"
+]
+},
+{
+"s": "▾",
+"k": [
+"down-pointing",
+"small",
+"triangle"
+]
+},
+{
+"s": "▿",
+"k": [
+"down-pointing",
+"small",
+"triangle"
+]
+},
+{
+"s": "◀",
+"k": [
+"left-pointing",
+"triangle"
+]
+},
+{
+"s": "◁",
+"k": [
+"left-pointing",
+"triangle"
+]
+},
+{
+"s": "◂",
+"k": [
+"left-pointing",
+"small",
+"triangle"
+]
+},
+{
+"s": "◃",
+"k": [
+"left-pointing",
+"small",
+"triangle"
+]
+},
+{
+"s": "◄",
+"k": [
+"left-pointing",
+"pointer"
+]
+},
+{
+"s": "◅",
+"k": [
+"left-pointing",
+"pointer"
+]
+},
+{
+"s": "◆",
+"k": [
+"diamond",
+"black"
+]
+},
+{
+"s": "◇",
+"k": [
+"diamond",
+"white"
+]
+},
+{
+"s": "◈",
+"k": [
+"diamond",
+"containing",
+"small"
+]
+},
+{
+"s": "◉",
+"k": [
+"fisheye"
+]
+},
+{
+"s": "◊",
+"k": [
+"lozenge"
+]
+},
+{
+"s": "○",
+"k": [
+"circle",
+"white"
+]
+},
+{
+"s": "◌",
+"k": [
+"dotted",
+"circle"
+]
+},
+{
+"s": "◍",
+"k": [
+"circle",
+"vertical",
+"fill"
+]
+},
+{
+"s": "◎",
+"k": [
+"bullseye"
+]
+},
+{
+"s": "●",
+"k": [
+"circle",
+"dot",
+"black"
+]
+},
+{
+"s": "◐",
+"k": [
+"circle",
+"left",
+"half"
+]
+},
+{
+"s": "◑",
+"k": [
+"circle",
+"right",
+"half"
+]
+},
+{
+"s": "◒",
+"k": [
+"circle",
+"lower",
+"half"
+]
+},
+{
+"s": "◓",
+"k": [
+"circle",
+"upper",
+"half"
+]
+},
+{
+"s": "◔",
+"k": [
+"circle",
+"upper",
+"right",
+"quadrant"
+]
+},
+{
+"s": "◕",
+"k": [
+"circle",
+"all",
+"but",
+"upper",
+"left",
+"quadrant"
+]
+},
+{
+"s": "◖",
+"k": [
+"left",
+"half",
+"circle"
+]
+},
+{
+"s": "◗",
+"k": [
+"right",
+"half",
+"circle"
+]
+},
+{
+"s": "◘",
+"k": [
+"inverse",
+"bullet"
+]
+},
+{
+"s": "◙",
+"k": [
+"inverse",
+"circle"
+]
+},
+{
+"s": "◚",
+"k": [
+"upper",
+"half",
+"inverse",
+"circle"
+]
+},
+{
+"s": "◛",
+"k": [
+"lower",
+"half",
+"inverse",
+"circle"
+]
+},
+{
+"s": "◜",
+"k": [
+"upper",
+"left",
+"quadrant",
+"circular",
+"arc"
+]
+},
+{
+"s": "◝",
+"k": [
+"upper",
+"right",
+"quadrant",
+"circular",
+"arc"
+]
+},
+{
+"s": "◞",
+"k": [
+"lower",
+"right",
+"quadrant",
+"circular",
+"arc"
+]
+},
+{
+"s": "◟",
+"k": [
+"lower",
+"left",
+"quadrant",
+"circular",
+"arc"
+]
+},
+{
+"s": "◠",
+"k": [
+"upper",
+"half",
+"circle"
+]
+},
+{
+"s": "◡",
+"k": [
+"lower",
+"half",
+"circle"
+]
+},
+{
+"s": "◢",
+"k": [
+"lower",
+"right",
+"triangle"
+]
+},
+{
+"s": "◣",
+"k": [
+"lower",
+"left",
+"triangle"
+]
+},
+{
+"s": "◤",
+"k": [
+"upper",
+"left",
+"triangle"
+]
+},
+{
+"s": "◥",
+"k": [
+"upper",
+"right",
+"triangle"
+]
+},
+{
+"s": "◦",
+"k": [
+"bullet"
+]
+},
+{
+"s": "◧",
+"k": [
+"square",
+"left",
+"half"
+]
+},
+{
+"s": "◨",
+"k": [
+"square",
+"right",
+"half"
+]
+},
+{
+"s": "◩",
+"k": [
+"square",
+"upper",
+"left",
+"diagonal",
+"half"
+]
+},
+{
+"s": "◪",
+"k": [
+"square",
+"lower",
+"right",
+"diagonal",
+"half"
+]
+},
+{
+"s": "◫",
+"k": [
+"square",
+"vertical",
+"bisecting",
+"line"
+]
+},
+{
+"s": "◬",
+"k": [
+"up-pointing",
+"triangle",
+"dot"
+]
+},
+{
+"s": "◭",
+"k": [
+"up-pointing",
+"triangle",
+"left",
+"half"
+]
+},
+{
+"s": "◮",
+"k": [
+"up-pointing",
+"triangle",
+"right",
+"half"
+]
+},
+{
+"s": "◯",
+"k": [
+"large",
+"circle"
+]
+},
+{
+"s": "★",
+"k": [
+"star",
+"black"
+]
+},
+{
+"s": "☆",
+"k": [
+"star",
+"white"
+]
+}
+]
+},
+{
+"title": "Math",
+"items": [
+{
+"s": "±",
+"k": [
+"plus",
+"minus",
+"plus-minus",
+"sign"
+]
+},
+{
+"s": "×",
+"k": [
+"multiply",
+"times",
+"multiplication",
+"sign"
+]
+},
+{
+"s": "÷",
+"k": [
+"divide",
+"division",
+"sign"
+]
+},
+{
+"s": "−",
+"k": [
+"minus",
+"sign"
+]
+},
+{
+"s": "∓",
+"k": [
+"minus-or-plus"
+]
+},
+{
+"s": "∔",
+"k": [
+"dot",
+"plus"
+]
+},
+{
+"s": "∕",
+"k": [
+"division",
+"slash"
+]
+},
+{
+"s": "∖",
+"k": [
+"set",
+"minus"
+]
+},
+{
+"s": "∗",
+"k": [
+"asterisk",
+"operator"
+]
+},
+{
+"s": "∘",
+"k": [
+"ring",
+"operator"
+]
+},
+{
+"s": "∙",
+"k": [
+"bullet",
+"operator"
+]
+},
+{
+"s": "√",
+"k": [
+"square",
+"root",
+"radical"
+]
+},
+{
+"s": "∛",
+"k": [
+"cube",
+"root"
+]
+},
+{
+"s": "∜",
+"k": [
+"fourth",
+"root"
+]
+},
+{
+"s": "∝",
+"k": [
+"proportional",
+"to"
+]
+},
+{
+"s": "∞",
+"k": [
+"infinity",
+"infinite"
+]
+},
+{
+"s": "∟",
+"k": [
+"right",
+"angle"
+]
+},
+{
+"s": "∠",
+"k": [
+"angle"
+]
+},
+{
+"s": "∡",
+"k": [
+"measured",
+"angle"
+]
+},
+{
+"s": "∢",
+"k": [
+"spherical",
+"angle"
+]
+},
+{
+"s": "∣",
+"k": [
+"divides"
+]
+},
+{
+"s": "∤",
+"k": [
+"does",
+"not",
+"divide"
+]
+},
+{
+"s": "∥",
+"k": [
+"parallel",
+"to"
+]
+},
+{
+"s": "∦",
+"k": [
+"not",
+"parallel",
+"to"
+]
+},
+{
+"s": "∧",
+"k": [
+"logical"
+]
+},
+{
+"s": "∨",
+"k": [
+"logical",
+"or"
+]
+},
+{
+"s": "∩",
+"k": [
+"intersection"
+]
+},
+{
+"s": "∪",
+"k": [
+"union"
+]
+},
+{
+"s": "∫",
+"k": [
+"integral",
+"calculus"
+]
+},
+{
+"s": "∬",
+"k": [
+"double",
+"integral"
+]
+},
+{
+"s": "∭",
+"k": [
+"triple",
+"integral"
+]
+},
+{
+"s": "∮",
+"k": [
+"contour",
+"integral"
+]
+},
+{
+"s": "∴",
+"k": [
+"therefore"
+]
+},
+{
+"s": "∵",
+"k": [
+"because"
+]
+},
+{
+"s": "∶",
+"k": [
+"ratio"
+]
+},
+{
+"s": "∷",
+"k": [
+"proportion"
+]
+},
+{
+"s": "∼",
+"k": [
+"tilde",
+"operator"
+]
+},
+{
+"s": "∽",
+"k": [
+"reversed",
+"tilde"
+]
+},
+{
+"s": "∾",
+"k": [
+"inverted",
+"lazy",
+"s"
+]
+},
+{
+"s": "≈",
+"k": [
+"approximately",
+"almost",
+"equal",
+"to"
+]
+},
+{
+"s": "≉",
+"k": [
+"not",
+"almost",
+"equal",
+"to"
+]
+},
+{
+"s": "≠",
+"k": [
+"not",
+"equal",
+"to"
+]
+},
+{
+"s": "≡",
+"k": [
+"identical",
+"to"
+]
+},
+{
+"s": "≢",
+"k": [
+"not",
+"identical",
+"to"
+]
+},
+{
+"s": "≤",
+"k": [
+"less",
+"than",
+"or",
+"equal",
+"less-than",
+"to"
+]
+},
+{
+"s": "≥",
+"k": [
+"greater",
+"than",
+"or",
+"equal",
+"greater-than",
+"to"
+]
+},
+{
+"s": "≦",
+"k": [
+"less-than",
+"over",
+"equal",
+"to"
+]
+},
+{
+"s": "≧",
+"k": [
+"greater-than",
+"over",
+"equal",
+"to"
+]
+},
+{
+"s": "≪",
+"k": [
+"much",
+"less-than"
+]
+},
+{
+"s": "≫",
+"k": [
+"much",
+"greater-than"
+]
+},
+{
+"s": "≮",
+"k": [
+"not",
+"less-than"
+]
+},
+{
+"s": "≯",
+"k": [
+"not",
+"greater-than"
+]
+},
+{
+"s": "≰",
+"k": [
+"neither",
+"less-than",
+"nor",
+"equal",
+"to"
+]
+},
+{
+"s": "≱",
+"k": [
+"neither",
+"greater-than",
+"nor",
+"equal",
+"to"
+]
+},
+{
+"s": "⊂",
+"k": [
+"subset"
+]
+},
+{
+"s": "⊃",
+"k": [
+"superset"
+]
+},
+{
+"s": "⊄",
+"k": [
+"not",
+"a",
+"subset"
+]
+},
+{
+"s": "⊅",
+"k": [
+"not",
+"a",
+"superset"
+]
+},
+{
+"s": "⊆",
+"k": [
+"subset",
+"or",
+"equal",
+"to"
+]
+},
+{
+"s": "⊇",
+"k": [
+"superset",
+"or",
+"equal",
+"to"
+]
+},
+{
+"s": "⊕",
+"k": [
+"xor",
+"circled",
+"plus"
+]
+},
+{
+"s": "⊖",
+"k": [
+"circled",
+"minus"
+]
+},
+{
+"s": "⊗",
+"k": [
+"circled",
+"times"
+]
+},
+{
+"s": "⊘",
+"k": [
+"circled",
+"division",
+"slash"
+]
+},
+{
+"s": "⊙",
+"k": [
+"circled",
+"dot",
+"operator"
+]
+},
+{
+"s": "⊥",
+"k": [
+"up",
+"tack"
+]
+},
+{
+"s": "⋅",
+"k": [
+"dot",
+"operator"
+]
+},
+{
+"s": "⋯",
+"k": [
+"midline",
+"horizontal",
+"ellipsis"
+]
+},
+{
+"s": "∀",
+"k": [
+"for",
+"all"
+]
+},
+{
+"s": "∁",
+"k": [
+"complement"
+]
+},
+{
+"s": "∂",
+"k": [
+"partial",
+"derivative",
+"differential"
+]
+},
+{
+"s": "∃",
+"k": [
+"there",
+"exists"
+]
+},
+{
+"s": "∄",
+"k": [
+"there",
+"does",
+"not",
+"exist"
+]
+},
+{
+"s": "∅",
+"k": [
+"empty",
+"set",
+"null"
+]
+},
+{
+"s": "∆",
+"k": [
+"delta",
+"increment",
+"change"
+]
+},
+{
+"s": "∇",
+"k": [
+"nabla",
+"gradient"
+]
+},
+{
+"s": "∈",
+"k": [
+"element",
+"member",
+"of"
+]
+},
+{
+"s": "∉",
+"k": [
+"not",
+"an",
+"element"
+]
+},
+{
+"s": "∋",
+"k": [
+"contains",
+"as",
+"member"
+]
+},
+{
+"s": "∌",
+"k": [
+"does",
+"not",
+"contain",
+"as",
+"member"
+]
+},
+{
+"s": "∏",
+"k": [
+"product",
+"n-ary"
+]
+},
+{
+"s": "∐",
+"k": [
+"n-ary",
+"coproduct"
+]
+},
+{
+"s": "∑",
+"k": [
+"sum",
+"sigma",
+"summation",
+"n-ary"
+]
+},
+{
+"s": "¬",
+"k": [
+"not"
+]
+},
+{
+"s": "¹",
+"k": [
+"superscript",
+"one"
+]
+},
+{
+"s": "²",
+"k": [
+"superscript",
+"two"
+]
+},
+{
+"s": "³",
+"k": [
+"superscript",
+"three"
+]
+},
+{
+"s": "¼",
+"k": [
+"vulgar",
+"fraction",
+"one",
+"quarter"
+]
+},
+{
+"s": "½",
+"k": [
+"vulgar",
+"fraction",
+"one",
+"half"
+]
+},
+{
+"s": "¾",
+"k": [
+"vulgar",
+"fraction",
+"three",
+"quarters"
+]
+},
+{
+"s": "π",
+"k": [
+"pi",
+"greek",
+"small",
+"letter"
+]
+},
+{
+"s": "°",
+"k": [
+"degree",
+"degrees",
+"temperature",
+"sign"
+]
+},
+{
+"s": "µ",
+"k": [
+"micro",
+"mu",
+"sign"
+]
+}
+]
+},
+{
+"title": "Supplemental",
+"items": [
+{
+"s": "←",
+"k": [
+"leftwards",
+"arrow"
+]
+},
+{
+"s": "↑",
+"k": [
+"upwards",
+"arrow"
+]
+},
+{
+"s": "→",
+"k": [
+"rightwards",
+"arrow"
+]
+},
+{
+"s": "↓",
+"k": [
+"downwards",
+"arrow"
+]
+},
+{
+"s": "↔",
+"k": [
+"left",
+"right",
+"arrow"
+]
+},
+{
+"s": "↕",
+"k": [
+"up",
+"down",
+"arrow"
+]
+},
+{
+"s": "↖",
+"k": [
+"north",
+"west",
+"arrow"
+]
+},
+{
+"s": "↗",
+"k": [
+"north",
+"east",
+"arrow"
+]
+},
+{
+"s": "↘",
+"k": [
+"south",
+"east",
+"arrow"
+]
+},
+{
+"s": "↙",
+"k": [
+"south",
+"west",
+"arrow"
+]
+},
+{
+"s": "↚",
+"k": [
+"leftwards",
+"arrow",
+"stroke"
+]
+},
+{
+"s": "↛",
+"k": [
+"rightwards",
+"arrow",
+"stroke"
+]
+},
+{
+"s": "↜",
+"k": [
+"leftwards",
+"wave",
+"arrow"
+]
+},
+{
+"s": "↝",
+"k": [
+"rightwards",
+"wave",
+"arrow"
+]
+},
+{
+"s": "↞",
+"k": [
+"leftwards",
+"two",
+"headed",
+"arrow"
+]
+},
+{
+"s": "↟",
+"k": [
+"upwards",
+"two",
+"headed",
+"arrow"
+]
+},
+{
+"s": "↠",
+"k": [
+"rightwards",
+"two",
+"headed",
+"arrow"
+]
+},
+{
+"s": "↡",
+"k": [
+"downwards",
+"two",
+"headed",
+"arrow"
+]
+},
+{
+"s": "↢",
+"k": [
+"leftwards",
+"arrow",
+"tail"
+]
+},
+{
+"s": "↣",
+"k": [
+"rightwards",
+"arrow",
+"tail"
+]
+},
+{
+"s": "↤",
+"k": [
+"leftwards",
+"arrow",
+"from",
+"bar"
+]
+},
+{
+"s": "↥",
+"k": [
+"upwards",
+"arrow",
+"from",
+"bar"
+]
+},
+{
+"s": "↦",
+"k": [
+"rightwards",
+"arrow",
+"from",
+"bar"
+]
+},
+{
+"s": "↧",
+"k": [
+"downwards",
+"arrow",
+"from",
+"bar"
+]
+},
+{
+"s": "↨",
+"k": [
+"up",
+"down",
+"arrow",
+"base"
+]
+},
+{
+"s": "↩",
+"k": [
+"leftwards",
+"arrow",
+"hook"
+]
+},
+{
+"s": "↪",
+"k": [
+"rightwards",
+"arrow",
+"hook"
+]
+},
+{
+"s": "↫",
+"k": [
+"leftwards",
+"arrow",
+"loop"
+]
+},
+{
+"s": "↬",
+"k": [
+"rightwards",
+"arrow",
+"loop"
+]
+},
+{
+"s": "↭",
+"k": [
+"left",
+"right",
+"wave",
+"arrow"
+]
+},
+{
+"s": "↮",
+"k": [
+"left",
+"right",
+"arrow",
+"stroke"
+]
+},
+{
+"s": "↯",
+"k": [
+"downwards",
+"zigzag",
+"arrow"
+]
+},
+{
+"s": "↰",
+"k": [
+"upwards",
+"arrow",
+"tip",
+"leftwards"
+]
+},
+{
+"s": "↱",
+"k": [
+"upwards",
+"arrow",
+"tip",
+"rightwards"
+]
+},
+{
+"s": "↲",
+"k": [
+"downwards",
+"arrow",
+"tip",
+"leftwards"
+]
+},
+{
+"s": "↳",
+"k": [
+"downwards",
+"arrow",
+"tip",
+"rightwards"
+]
+},
+{
+"s": "↴",
+"k": [
+"rightwards",
+"arrow",
+"corner",
+"downwards"
+]
+},
+{
+"s": "↵",
+"k": [
+"downwards",
+"arrow",
+"corner",
+"leftwards"
+]
+},
+{
+"s": "↶",
+"k": [
+"anticlockwise",
+"top",
+"semicircle",
+"arrow"
+]
+},
+{
+"s": "↷",
+"k": [
+"clockwise",
+"top",
+"semicircle",
+"arrow"
+]
+},
+{
+"s": "↸",
+"k": [
+"north",
+"west",
+"arrow",
+"to",
+"long",
+"bar"
+]
+},
+{
+"s": "↹",
+"k": [
+"leftwards",
+"arrow",
+"to",
+"bar",
+"over",
+"rightwards"
+]
+},
+{
+"s": "↺",
+"k": [
+"anticlockwise",
+"open",
+"circle",
+"arrow"
+]
+},
+{
+"s": "↻",
+"k": [
+"clockwise",
+"open",
+"circle",
+"arrow"
+]
+},
+{
+"s": "↼",
+"k": [
+"leftwards",
+"harpoon",
+"barb",
+"upwards"
+]
+},
+{
+"s": "↽",
+"k": [
+"leftwards",
+"harpoon",
+"barb",
+"downwards"
+]
+},
+{
+"s": "↾",
+"k": [
+"upwards",
+"harpoon",
+"barb",
+"rightwards"
+]
+},
+{
+"s": "↿",
+"k": [
+"upwards",
+"harpoon",
+"barb",
+"leftwards"
+]
+},
+{
+"s": "⇀",
+"k": [
+"rightwards",
+"harpoon",
+"barb",
+"upwards"
+]
+},
+{
+"s": "⇁",
+"k": [
+"rightwards",
+"harpoon",
+"barb",
+"downwards"
+]
+},
+{
+"s": "⇂",
+"k": [
+"downwards",
+"harpoon",
+"barb",
+"rightwards"
+]
+},
+{
+"s": "⇃",
+"k": [
+"downwards",
+"harpoon",
+"barb",
+"leftwards"
+]
+},
+{
+"s": "⇄",
+"k": [
+"rightwards",
+"arrow",
+"over",
+"leftwards"
+]
+},
+{
+"s": "⇅",
+"k": [
+"upwards",
+"arrow",
+"leftwards",
+"downwards"
+]
+},
+{
+"s": "⇆",
+"k": [
+"leftwards",
+"arrow",
+"over",
+"rightwards"
+]
+},
+{
+"s": "⇇",
+"k": [
+"leftwards",
+"paired",
+"arrows"
+]
+},
+{
+"s": "⇈",
+"k": [
+"upwards",
+"paired",
+"arrows"
+]
+},
+{
+"s": "⇉",
+"k": [
+"rightwards",
+"paired",
+"arrows"
+]
+},
+{
+"s": "⇊",
+"k": [
+"downwards",
+"paired",
+"arrows"
+]
+},
+{
+"s": "⇋",
+"k": [
+"leftwards",
+"harpoon",
+"over",
+"rightwards"
+]
+},
+{
+"s": "⇌",
+"k": [
+"rightwards",
+"harpoon",
+"over",
+"leftwards"
+]
+},
+{
+"s": "⇍",
+"k": [
+"leftwards",
+"double",
+"arrow",
+"stroke"
+]
+},
+{
+"s": "⇎",
+"k": [
+"left",
+"right",
+"double",
+"arrow",
+"stroke"
+]
+},
+{
+"s": "⇏",
+"k": [
+"rightwards",
+"double",
+"arrow",
+"stroke"
+]
+},
+{
+"s": "⇐",
+"k": [
+"leftwards",
+"double",
+"arrow"
+]
+},
+{
+"s": "⇑",
+"k": [
+"upwards",
+"double",
+"arrow"
+]
+},
+{
+"s": "⇒",
+"k": [
+"rightwards",
+"double",
+"arrow"
+]
+},
+{
+"s": "⇓",
+"k": [
+"downwards",
+"double",
+"arrow"
+]
+},
+{
+"s": "⇔",
+"k": [
+"left",
+"right",
+"double",
+"arrow"
+]
+},
+{
+"s": "⇕",
+"k": [
+"up",
+"down",
+"double",
+"arrow"
+]
+},
+{
+"s": "⇖",
+"k": [
+"north",
+"west",
+"double",
+"arrow"
+]
+},
+{
+"s": "⇗",
+"k": [
+"north",
+"east",
+"double",
+"arrow"
+]
+},
+{
+"s": "⇘",
+"k": [
+"south",
+"east",
+"double",
+"arrow"
+]
+},
+{
+"s": "⇙",
+"k": [
+"south",
+"west",
+"double",
+"arrow"
+]
+},
+{
+"s": "⌘",
+"k": [
+"command",
+"mac",
+"cmd",
+"place",
+"of",
+"interest",
+"sign"
+]
+},
+{
+"s": "⌥",
+"k": [
+"option",
+"alt",
+"mac",
+"key"
+]
+},
+{
+"s": "⌃",
+"k": [
+"control",
+"ctrl",
+"mac",
+"up",
+"arrowhead"
+]
+},
+{
+"s": "⇧",
+"k": [
+"shift",
+"mac",
+"upwards",
+"white",
+"arrow"
+]
+},
+{
+"s": "⌫",
+"k": [
+"delete",
+"backspace",
+"erase",
+"to",
+"the",
+"left"
+]
+},
+{
+"s": "⌦",
+"k": [
+"erase",
+"to",
+"right"
+]
+},
+{
+"s": "⏎",
+"k": [
+"return",
+"enter",
+"symbol"
+]
+},
+{
+"s": "⎋",
+"k": [
+"escape",
+"esc",
+"broken",
+"circle",
+"with",
+"northwest",
+"arrow"
+]
+},
+{
+"s": "⌀",
+"k": [
+"diameter"
+]
+},
+{
+"s": "⌂",
+"k": [
+"house"
+]
+},
+{
+"s": "⌚",
+"k": [
+"watch"
+]
+},
+{
+"s": "⌛",
+"k": [
+"hourglass"
+]
+},
+{
+"s": "⌨",
+"k": [
+"keyboard"
+]
+},
+{
+"s": "⏏",
+"k": [
+"eject",
+"symbol"
+]
+},
+{
+"s": "⏰",
+"k": [
+"alarm",
+"clock"
+]
+},
+{
+"s": "☀",
+"k": [
+"sun",
+"sunny",
+"black",
+"with",
+"rays"
+]
+},
+{
+"s": "☁",
+"k": [
+"cloud"
+]
+},
+{
+"s": "☂",
+"k": [
+"umbrella",
+"rain"
+]
+},
+{
+"s": "☃",
+"k": [
+"snowman",
+"snow"
+]
+},
+{
+"s": "☄",
+"k": [
+"comet"
+]
+},
+{
+"s": "☎",
+"k": [
+"phone",
+"telephone",
+"black"
+]
+},
+{
+"s": "☏",
+"k": [
+"telephone"
+]
+},
+{
+"s": "☑",
+"k": [
+"ballot",
+"box",
+"check"
+]
+},
+{
+"s": "☒",
+"k": [
+"ballot",
+"box",
+"x"
+]
+},
+{
+"s": "☓",
+"k": [
+"saltire"
+]
+},
+{
+"s": "☔",
+"k": [
+"umbrella",
+"rain",
+"drops"
+]
+},
+{
+"s": "☕",
+"k": [
+"coffee",
+"tea",
+"hot",
+"beverage"
+]
+},
+{
+"s": "☘",
+"k": [
+"shamrock"
+]
+},
+{
+"s": "☙",
+"k": [
+"reversed",
+"rotated",
+"floral",
+"heart",
+"bullet"
+]
+},
+{
+"s": "☚",
+"k": [
+"left",
+"pointing",
+"index"
+]
+},
+{
+"s": "☛",
+"k": [
+"right",
+"pointing",
+"index"
+]
+},
+{
+"s": "☜",
+"k": [
+"left",
+"pointing",
+"index"
+]
+},
+{
+"s": "☝",
+"k": [
+"up",
+"pointing",
+"index"
+]
+},
+{
+"s": "☞",
+"k": [
+"right",
+"pointing",
+"index"
+]
+},
+{
+"s": "☟",
+"k": [
+"down",
+"pointing",
+"index"
+]
+},
+{
+"s": "☠",
+"k": [
+"skull",
+"crossbones",
+"death",
+"and"
+]
+},
+{
+"s": "☢",
+"k": [
+"radioactive",
+"sign"
+]
+},
+{
+"s": "☣",
+"k": [
+"biohazard",
+"sign"
+]
+},
+{
+"s": "☤",
+"k": [
+"caduceus"
+]
+},
+{
+"s": "☮",
+"k": [
+"peace",
+"symbol"
+]
+},
+{
+"s": "☯",
+"k": [
+"yin",
+"yang"
+]
+},
+{
+"s": "☸",
+"k": [
+"wheel",
+"dharma"
+]
+},
+{
+"s": "☹",
+"k": [
+"frowning",
+"face"
+]
+},
+{
+"s": "☺",
+"k": [
+"smile",
+"happy",
+"face",
+"white",
+"smiling"
+]
+},
+{
+"s": "☻",
+"k": [
+"smile",
+"happy",
+"face",
+"black",
+"smiling"
+]
+},
+{
+"s": "☼",
+"k": [
+"sun",
+"rays"
+]
+},
+{
+"s": "☽",
+"k": [
+"first",
+"quarter",
+"moon"
+]
+},
+{
+"s": "☾",
+"k": [
+"last",
+"quarter",
+"moon"
+]
+},
+{
+"s": "♀",
+"k": [
+"female"
+]
+},
+{
+"s": "♂",
+"k": [
+"male"
+]
+},
+{
+"s": "♈",
+"k": [
+"aries"
+]
+},
+{
+"s": "♉",
+"k": [
+"taurus"
+]
+},
+{
+"s": "♠",
+"k": [
+"spade",
+"suit"
+]
+},
+{
+"s": "♣",
+"k": [
+"club",
+"suit"
+]
+},
+{
+"s": "♥",
+"k": [
+"heart",
+"love",
+"black",
+"suit"
+]
+},
+{
+"s": "♦",
+"k": [
+"diamond",
+"suit"
+]
+},
+{
+"s": "♩",
+"k": [
+"quarter",
+"note"
+]
+},
+{
+"s": "♪",
+"k": [
+"music",
+"note",
+"eighth"
+]
+},
+{
+"s": "♫",
+"k": [
+"music",
+"notes",
+"beamed",
+"eighth"
+]
+},
+{
+"s": "♬",
+"k": [
+"beamed",
+"sixteenth",
+"notes"
+]
+},
+{
+"s": "♭",
+"k": [
+"music",
+"flat"
+]
+},
+{
+"s": "♮",
+"k": [
+"music",
+"natural"
+]
+},
+{
+"s": "♯",
+"k": [
+"music",
+"sharp"
+]
+},
+{
+"s": "♻",
+"k": [
+"recycle",
+"black",
+"universal",
+"recycling",
+"symbol"
+]
+},
+{
+"s": "♾",
+"k": [
+"permanent",
+"paper"
+]
+},
+{
+"s": "♿",
+"k": [
+"wheelchair",
+"symbol"
+]
+},
+{
+"s": "⚐",
+"k": [
+"flag"
+]
+},
+{
+"s": "⚑",
+"k": [
+"flag"
+]
+},
+{
+"s": "⚠",
+"k": [
+"warning",
+"caution",
+"sign"
+]
+},
+{
+"s": "⚡",
+"k": [
+"lightning",
+"bolt",
+"high",
+"voltage",
+"sign"
+]
+},
+{
+"s": "⚰",
+"k": [
+"coffin"
+]
+},
+{
+"s": "⚱",
+"k": [
+"funeral",
+"urn"
+]
+},
+{
+"s": "⚽",
+"k": [
+"soccer",
+"ball"
+]
+},
+{
+"s": "⚾",
+"k": [
+"baseball"
+]
+},
+{
+"s": "✂",
+"k": [
+"scissors",
+"cut",
+"black"
+]
+},
+{
+"s": "✆",
+"k": [
+"telephone",
+"location"
+]
+},
+{
+"s": "✈",
+"k": [
+"airplane",
+"plane"
+]
+},
+{
+"s": "✉",
+"k": [
+"envelope",
+"mail",
+"email"
+]
+},
+{
+"s": "✌",
+"k": [
+"victory",
+"hand"
+]
+},
+{
+"s": "✍",
+"k": [
+"writing",
+"hand"
+]
+},
+{
+"s": "✎",
+"k": [
+"lower",
+"right",
+"pencil"
+]
+},
+{
+"s": "✏",
+"k": [
+"pencil"
+]
+},
+{
+"s": "✐",
+"k": [
+"upper",
+"right",
+"pencil"
+]
+},
+{
+"s": "✓",
+"k": [
+"check",
+"tick",
+"mark"
+]
+},
+{
+"s": "✔",
+"k": [
+"check",
+"tick",
+"heavy",
+"mark"
+]
+},
+{
+"s": "✕",
+"k": [
+"multiplication",
+"x"
+]
+},
+{
+"s": "✖",
+"k": [
+"multiplication",
+"x"
+]
+},
+{
+"s": "✗",
+"k": [
+"cross",
+"x",
+"ballot"
+]
+},
+{
+"s": "✘",
+"k": [
+"cross",
+"x",
+"ballot",
+"heavy"
+]
+},
+{
+"s": "✙",
+"k": [
+"outlined",
+"greek",
+"cross"
+]
+},
+{
+"s": "✚",
+"k": [
+"greek",
+"cross"
+]
+},
+{
+"s": "✛",
+"k": [
+"open",
+"centre",
+"cross"
+]
+},
+{
+"s": "✜",
+"k": [
+"open",
+"centre",
+"cross"
+]
+},
+{
+"s": "✝",
+"k": [
+"latin",
+"cross"
+]
+},
+{
+"s": "✞",
+"k": [
+"shadowed",
+"latin",
+"cross"
+]
+},
+{
+"s": "✟",
+"k": [
+"outlined",
+"latin",
+"cross"
+]
+},
+{
+"s": "✠",
+"k": [
+"maltese",
+"cross"
+]
+},
+{
+"s": "✡",
+"k": [
+"star",
+"david"
+]
+},
+{
+"s": "✢",
+"k": [
+"four",
+"teardrop-spoked",
+"asterisk"
+]
+},
+{
+"s": "✣",
+"k": [
+"four",
+"balloon-spoked",
+"asterisk"
+]
+},
+{
+"s": "✤",
+"k": [
+"four",
+"balloon-spoked",
+"asterisk"
+]
+},
+{
+"s": "✥",
+"k": [
+"four",
+"club-spoked",
+"asterisk"
+]
+},
+{
+"s": "✦",
+"k": [
+"four",
+"pointed",
+"star"
+]
+},
+{
+"s": "✧",
+"k": [
+"four",
+"pointed",
+"star"
+]
+},
+{
+"s": "✩",
+"k": [
+"stress",
+"outlined",
+"star"
+]
+},
+{
+"s": "✪",
+"k": [
+"circled",
+"star"
+]
+},
+{
+"s": "✫",
+"k": [
+"open",
+"centre",
+"star"
+]
+},
+{
+"s": "✬",
+"k": [
+"centre",
+"star"
+]
+},
+{
+"s": "✭",
+"k": [
+"outlined",
+"star"
+]
+},
+{
+"s": "✮",
+"k": [
+"outlined",
+"star"
+]
+},
+{
+"s": "✯",
+"k": [
+"pinwheel",
+"star"
+]
+},
+{
+"s": "✰",
+"k": [
+"shadowed",
+"star"
+]
+},
+{
+"s": "✱",
+"k": [
+"asterisk"
+]
+},
+{
+"s": "✲",
+"k": [
+"open",
+"centre",
+"asterisk"
+]
+},
+{
+"s": "✳",
+"k": [
+"eight",
+"spoked",
+"asterisk"
+]
+},
+{
+"s": "✴",
+"k": [
+"eight",
+"pointed",
+"star"
+]
+},
+{
+"s": "✵",
+"k": [
+"eight",
+"pointed",
+"pinwheel",
+"star"
+]
+},
+{
+"s": "✶",
+"k": [
+"six",
+"pointed",
+"star"
+]
+},
+{
+"s": "✷",
+"k": [
+"eight",
+"pointed",
+"rectilinear",
+"star"
+]
+},
+{
+"s": "✸",
+"k": [
+"eight",
+"pointed",
+"rectilinear",
+"star"
+]
+},
+{
+"s": "✹",
+"k": [
+"twelve",
+"pointed",
+"star"
+]
+},
+{
+"s": "✺",
+"k": [
+"sixteen",
+"pointed",
+"asterisk"
+]
+},
+{
+"s": "✻",
+"k": [
+"teardrop-spoked",
+"asterisk"
+]
+},
+{
+"s": "✼",
+"k": [
+"open",
+"centre",
+"teardrop-spoked",
+"asterisk"
+]
+},
+{
+"s": "✽",
+"k": [
+"teardrop-spoked",
+"asterisk"
+]
+},
+{
+"s": "✾",
+"k": [
+"six",
+"petalled",
+"florette"
+]
+},
+{
+"s": "✿",
+"k": [
+"florette"
+]
+},
+{
+"s": "❀",
+"k": [
+"florette"
+]
+},
+{
+"s": "❁",
+"k": [
+"eight",
+"petalled",
+"outlined",
+"florette"
+]
+},
+{
+"s": "❂",
+"k": [
+"circled",
+"open",
+"centre",
+"eight",
+"pointed",
+"star"
+]
+},
+{
+"s": "❃",
+"k": [
+"teardrop-spoked",
+"pinwheel",
+"asterisk"
+]
+},
+{
+"s": "❄",
+"k": [
+"snowflake"
+]
+},
+{
+"s": "❅",
+"k": [
+"tight",
+"trifoliate",
+"snowflake"
+]
+},
+{
+"s": "❆",
+"k": [
+"chevron",
+"snowflake"
+]
+},
+{
+"s": "❇",
+"k": [
+"sparkle"
+]
+},
+{
+"s": "❈",
+"k": [
+"sparkle"
+]
+},
+{
+"s": "❉",
+"k": [
+"balloon-spoked",
+"asterisk"
+]
+},
+{
+"s": "❊",
+"k": [
+"eight",
+"teardrop-spoked",
+"propeller",
+"asterisk"
+]
+},
+{
+"s": "❋",
+"k": [
+"eight",
+"teardrop-spoked",
+"propeller",
+"asterisk"
+]
+},
+{
+"s": "❌",
+"k": [
+"cross",
+"mark"
+]
+},
+{
+"s": "❍",
+"k": [
+"shadowed",
+"circle"
+]
+},
+{
+"s": "❎",
+"k": [
+"negative",
+"squared",
+"cross",
+"mark"
+]
+},
+{
+"s": "❏",
+"k": [
+"lower",
+"right",
+"drop-shadowed",
+"square"
+]
+},
+{
+"s": "❐",
+"k": [
+"upper",
+"right",
+"drop-shadowed",
+"square"
+]
+},
+{
+"s": "❑",
+"k": [
+"lower",
+"right",
+"shadowed",
+"square"
+]
+},
+{
+"s": "❒",
+"k": [
+"upper",
+"right",
+"shadowed",
+"square"
+]
+},
+{
+"s": "❓",
+"k": [
+"question",
+"mark",
+"ornament"
+]
+},
+{
+"s": "❔",
+"k": [
+"question",
+"mark",
+"ornament"
+]
+},
+{
+"s": "❕",
+"k": [
+"exclamation",
+"mark",
+"ornament"
+]
+},
+{
+"s": "❖",
+"k": [
+"diamond",
+"minus",
+"x"
+]
+},
+{
+"s": "❗",
+"k": [
+"exclamation",
+"mark",
+"symbol"
+]
+},
+{
+"s": "❘",
+"k": [
+"vertical",
+"bar"
+]
+},
+{
+"s": "❙",
+"k": [
+"medium",
+"vertical",
+"bar"
+]
+},
+{
+"s": "❚",
+"k": [
+"vertical",
+"bar"
+]
+},
+{
+"s": "❛",
+"k": [
+"single",
+"turned",
+"comma",
+"quotation",
+"mark",
+"ornament"
+]
+},
+{
+"s": "❜",
+"k": [
+"single",
+"comma",
+"quotation",
+"mark",
+"ornament"
+]
+},
+{
+"s": "❝",
+"k": [
+"double",
+"turned",
+"comma",
+"quotation",
+"mark",
+"ornament"
+]
+},
+{
+"s": "❞",
+"k": [
+"double",
+"comma",
+"quotation",
+"mark",
+"ornament"
+]
+},
+{
+"s": "❡",
+"k": [
+"curved",
+"stem",
+"paragraph",
+"ornament"
+]
+},
+{
+"s": "❢",
+"k": [
+"exclamation",
+"mark",
+"ornament"
+]
+},
+{
+"s": "❣",
+"k": [
+"heart",
+"exclamation",
+"mark",
+"ornament"
+]
+},
+{
+"s": "❤",
+"k": [
+"heart",
+"love",
+"red",
+"heavy",
+"black"
+]
+},
+{
+"s": "❥",
+"k": [
+"rotated",
+"heart",
+"bullet"
+]
+},
+{
+"s": "❦",
+"k": [
+"floral",
+"heart"
+]
+},
+{
+"s": "❧",
+"k": [
+"rotated",
+"floral",
+"heart",
+"bullet"
+]
+},
+{
+"s": "➔",
+"k": [
+"wide-headed",
+"rightwards",
+"arrow"
+]
+},
+{
+"s": "➘",
+"k": [
+"south",
+"east",
+"arrow"
+]
+},
+{
+"s": "➙",
+"k": [
+"rightwards",
+"arrow"
+]
+},
+{
+"s": "➚",
+"k": [
+"north",
+"east",
+"arrow"
+]
+},
+{
+"s": "➛",
+"k": [
+"drafting",
+"point",
+"rightwards",
+"arrow"
+]
+},
+{
+"s": "➜",
+"k": [
+"round-tipped",
+"rightwards",
+"arrow"
+]
+},
+{
+"s": "➝",
+"k": [
+"triangle-headed",
+"rightwards",
+"arrow"
+]
+},
+{
+"s": "➞",
+"k": [
+"triangle-headed",
+"rightwards",
+"arrow"
+]
+},
+{
+"s": "➟",
+"k": [
+"dashed",
+"triangle-headed",
+"rightwards",
+"arrow"
+]
+},
+{
+"s": "➠",
+"k": [
+"dashed",
+"triangle-headed",
+"rightwards",
+"arrow"
+]
+},
+{
+"s": "➡",
+"k": [
+"rightwards",
+"arrow"
+]
+},
+{
+"s": "➢",
+"k": [
+"three-d",
+"top-lighted",
+"rightwards",
+"arrowhead"
+]
+},
+{
+"s": "➣",
+"k": [
+"three-d",
+"bottom-lighted",
+"rightwards",
+"arrowhead"
+]
+},
+{
+"s": "➤",
+"k": [
+"rightwards",
+"arrowhead"
+]
+},
+{
+"s": "➥",
+"k": [
+"curved",
+"downwards",
+"rightwards",
+"arrow"
+]
+},
+{
+"s": "➦",
+"k": [
+"curved",
+"upwards",
+"rightwards",
+"arrow"
+]
+},
+{
+"s": "➧",
+"k": [
+"squat",
+"rightwards",
+"arrow"
+]
+},
+{
+"s": "➨",
+"k": [
+"concave-pointed",
+"rightwards",
+"arrow"
+]
+},
+{
+"s": "➩",
+"k": [
+"right-shaded",
+"rightwards",
+"arrow"
+]
+},
+{
+"s": "➪",
+"k": [
+"left-shaded",
+"rightwards",
+"arrow"
+]
+},
+{
+"s": "➫",
+"k": [
+"back-tilted",
+"shadowed",
+"rightwards",
+"arrow"
+]
+},
+{
+"s": "➬",
+"k": [
+"front-tilted",
+"shadowed",
+"rightwards",
+"arrow"
+]
+},
+{
+"s": "➭",
+"k": [
+"lower",
+"right-shadowed",
+"rightwards",
+"arrow"
+]
+},
+{
+"s": "➮",
+"k": [
+"upper",
+"right-shadowed",
+"rightwards",
+"arrow"
+]
+},
+{
+"s": "➯",
+"k": [
+"notched",
+"lower",
+"right-shadowed",
+"rightwards",
+"arrow"
+]
+},
+{
+"s": "➱",
+"k": [
+"notched",
+"upper",
+"right-shadowed",
+"rightwards",
+"arrow"
+]
+},
+{
+"s": "➲",
+"k": [
+"circled",
+"rightwards",
+"arrow"
+]
+},
+{
+"s": "➳",
+"k": [
+"white-feathered",
+"rightwards",
+"arrow"
+]
+},
+{
+"s": "➴",
+"k": [
+"black-feathered",
+"south",
+"east",
+"arrow"
+]
+},
+{
+"s": "➵",
+"k": [
+"black-feathered",
+"rightwards",
+"arrow"
+]
+},
+{
+"s": "➶",
+"k": [
+"black-feathered",
+"north",
+"east",
+"arrow"
+]
+},
+{
+"s": "➷",
+"k": [
+"black-feathered",
+"south",
+"east",
+"arrow"
+]
+},
+{
+"s": "➸",
+"k": [
+"black-feathered",
+"rightwards",
+"arrow"
+]
+},
+{
+"s": "➹",
+"k": [
+"black-feathered",
+"north",
+"east",
+"arrow"
+]
+},
+{
+"s": "➺",
+"k": [
+"teardrop-barbed",
+"rightwards",
+"arrow"
+]
+},
+{
+"s": "➻",
+"k": [
+"teardrop-shanked",
+"rightwards",
+"arrow"
+]
+},
+{
+"s": "➼",
+"k": [
+"wedge-tailed",
+"rightwards",
+"arrow"
+]
+},
+{
+"s": "➽",
+"k": [
+"wedge-tailed",
+"rightwards",
+"arrow"
+]
+},
+{
+"s": "➾",
+"k": [
+"open-outlined",
+"rightwards",
+"arrow"
+]
+},
+{
+"s": "♡",
+"k": [
+"heart",
+"love",
+"white",
+"suit"
+]
+},
+{
+"s": "♢",
+"k": [
+"diamond",
+"suit"
+]
+},
+{
+"s": "♤",
+"k": [
+"spade",
+"suit"
+]
+},
+{
+"s": "♧",
+"k": [
+"club",
+"suit"
+]
+}
+]
+},
+{
+"title": "Language",
+"items": [
+{
+"s": "α",
+"k": [
+"greek",
+"alpha",
+"lowercase"
+]
+},
+{
+"s": "β",
+"k": [
+"greek",
+"beta",
+"lowercase"
+]
+},
+{
+"s": "γ",
+"k": [
+"greek",
+"gamma",
+"lowercase"
+]
+},
+{
+"s": "δ",
+"k": [
+"greek",
+"delta",
+"lowercase"
+]
+},
+{
+"s": "ε",
+"k": [
+"greek",
+"epsilon",
+"lowercase"
+]
+},
+{
+"s": "ζ",
+"k": [
+"greek",
+"zeta",
+"lowercase"
+]
+},
+{
+"s": "η",
+"k": [
+"greek",
+"eta",
+"lowercase"
+]
+},
+{
+"s": "θ",
+"k": [
+"greek",
+"theta",
+"lowercase"
+]
+},
+{
+"s": "ι",
+"k": [
+"greek",
+"iota",
+"lowercase"
+]
+},
+{
+"s": "κ",
+"k": [
+"greek",
+"kappa",
+"lowercase"
+]
+},
+{
+"s": "λ",
+"k": [
+"greek",
+"lamda",
+"lowercase"
+]
+},
+{
+"s": "μ",
+"k": [
+"greek",
+"mu",
+"lowercase"
+]
+},
+{
+"s": "ν",
+"k": [
+"greek",
+"nu",
+"lowercase"
+]
+},
+{
+"s": "ξ",
+"k": [
+"greek",
+"xi",
+"lowercase"
+]
+},
+{
+"s": "ο",
+"k": [
+"greek",
+"omicron",
+"lowercase"
+]
+},
+{
+"s": "ρ",
+"k": [
+"greek",
+"rho",
+"lowercase"
+]
+},
+{
+"s": "σ",
+"k": [
+"greek",
+"sigma",
+"lowercase"
+]
+},
+{
+"s": "τ",
+"k": [
+"greek",
+"tau",
+"lowercase"
+]
+},
+{
+"s": "υ",
+"k": [
+"greek",
+"upsilon",
+"lowercase"
+]
+},
+{
+"s": "φ",
+"k": [
+"greek",
+"phi",
+"lowercase"
+]
+},
+{
+"s": "χ",
+"k": [
+"greek",
+"chi",
+"lowercase"
+]
+},
+{
+"s": "ψ",
+"k": [
+"greek",
+"psi",
+"lowercase"
+]
+},
+{
+"s": "ω",
+"k": [
+"greek",
+"omega",
+"lowercase"
+]
+},
+{
+"s": "Α",
+"k": [
+"greek",
+"alpha",
+"uppercase"
+]
+},
+{
+"s": "Β",
+"k": [
+"greek",
+"beta",
+"uppercase"
+]
+},
+{
+"s": "Γ",
+"k": [
+"greek",
+"gamma",
+"uppercase"
+]
+},
+{
+"s": "Δ",
+"k": [
+"greek",
+"delta",
+"uppercase"
+]
+},
+{
+"s": "Ε",
+"k": [
+"greek",
+"epsilon",
+"uppercase"
+]
+},
+{
+"s": "Ζ",
+"k": [
+"greek",
+"zeta",
+"uppercase"
+]
+},
+{
+"s": "Η",
+"k": [
+"greek",
+"eta",
+"uppercase"
+]
+},
+{
+"s": "Θ",
+"k": [
+"greek",
+"theta",
+"uppercase"
+]
+},
+{
+"s": "Ι",
+"k": [
+"greek",
+"iota",
+"uppercase"
+]
+},
+{
+"s": "Κ",
+"k": [
+"greek",
+"kappa",
+"uppercase"
+]
+},
+{
+"s": "Λ",
+"k": [
+"greek",
+"lamda",
+"uppercase"
+]
+},
+{
+"s": "Μ",
+"k": [
+"greek",
+"mu",
+"uppercase"
+]
+},
+{
+"s": "Ν",
+"k": [
+"greek",
+"nu",
+"uppercase"
+]
+},
+{
+"s": "Ξ",
+"k": [
+"greek",
+"xi",
+"uppercase"
+]
+},
+{
+"s": "Ο",
+"k": [
+"greek",
+"omicron",
+"uppercase"
+]
+},
+{
+"s": "Π",
+"k": [
+"greek",
+"pi",
+"uppercase"
+]
+},
+{
+"s": "Ρ",
+"k": [
+"greek",
+"rho",
+"uppercase"
+]
+},
+{
+"s": "Σ",
+"k": [
+"greek",
+"sigma",
+"uppercase"
+]
+},
+{
+"s": "Τ",
+"k": [
+"greek",
+"tau",
+"uppercase"
+]
+},
+{
+"s": "Υ",
+"k": [
+"greek",
+"upsilon",
+"uppercase"
+]
+},
+{
+"s": "Φ",
+"k": [
+"greek",
+"phi",
+"uppercase"
+]
+},
+{
+"s": "Χ",
+"k": [
+"greek",
+"chi",
+"uppercase"
+]
+},
+{
+"s": "Ψ",
+"k": [
+"greek",
+"psi",
+"uppercase"
+]
+},
+{
+"s": "Ω",
+"k": [
+"greek",
+"omega",
+"uppercase"
+]
+},
+{
+"s": "а",
+"k": [
+"cyrillic",
+"russian",
+"a",
+"lowercase"
+]
+},
+{
+"s": "б",
+"k": [
+"cyrillic",
+"russian",
+"be",
+"lowercase"
+]
+},
+{
+"s": "в",
+"k": [
+"cyrillic",
+"russian",
+"ve",
+"lowercase"
+]
+},
+{
+"s": "г",
+"k": [
+"cyrillic",
+"russian",
+"ghe",
+"lowercase"
+]
+},
+{
+"s": "д",
+"k": [
+"cyrillic",
+"russian",
+"de",
+"lowercase"
+]
+},
+{
+"s": "е",
+"k": [
+"cyrillic",
+"russian",
+"ie",
+"lowercase"
+]
+},
+{
+"s": "ё",
+"k": [
+"cyrillic",
+"russian",
+"io",
+"lowercase"
+]
+},
+{
+"s": "ж",
+"k": [
+"cyrillic",
+"russian",
+"zhe",
+"lowercase"
+]
+},
+{
+"s": "з",
+"k": [
+"cyrillic",
+"russian",
+"ze",
+"lowercase"
+]
+},
+{
+"s": "и",
+"k": [
+"cyrillic",
+"russian",
+"i",
+"lowercase"
+]
+},
+{
+"s": "й",
+"k": [
+"cyrillic",
+"russian",
+"short",
+"i",
+"lowercase"
+]
+},
+{
+"s": "к",
+"k": [
+"cyrillic",
+"russian",
+"ka",
+"lowercase"
+]
+},
+{
+"s": "л",
+"k": [
+"cyrillic",
+"russian",
+"el",
+"lowercase"
+]
+},
+{
+"s": "м",
+"k": [
+"cyrillic",
+"russian",
+"em",
+"lowercase"
+]
+},
+{
+"s": "н",
+"k": [
+"cyrillic",
+"russian",
+"en",
+"lowercase"
+]
+},
+{
+"s": "о",
+"k": [
+"cyrillic",
+"russian",
+"o",
+"lowercase"
+]
+},
+{
+"s": "п",
+"k": [
+"cyrillic",
+"russian",
+"pe",
+"lowercase"
+]
+},
+{
+"s": "р",
+"k": [
+"cyrillic",
+"russian",
+"er",
+"lowercase"
+]
+},
+{
+"s": "с",
+"k": [
+"cyrillic",
+"russian",
+"es",
+"lowercase"
+]
+},
+{
+"s": "т",
+"k": [
+"cyrillic",
+"russian",
+"te",
+"lowercase"
+]
+},
+{
+"s": "у",
+"k": [
+"cyrillic",
+"russian",
+"u",
+"lowercase"
+]
+},
+{
+"s": "ф",
+"k": [
+"cyrillic",
+"russian",
+"ef",
+"lowercase"
+]
+},
+{
+"s": "х",
+"k": [
+"cyrillic",
+"russian",
+"ha",
+"lowercase"
+]
+},
+{
+"s": "ц",
+"k": [
+"cyrillic",
+"russian",
+"tse",
+"lowercase"
+]
+},
+{
+"s": "ч",
+"k": [
+"cyrillic",
+"russian",
+"che",
+"lowercase"
+]
+},
+{
+"s": "ш",
+"k": [
+"cyrillic",
+"russian",
+"sha",
+"lowercase"
+]
+},
+{
+"s": "щ",
+"k": [
+"cyrillic",
+"russian",
+"shcha",
+"lowercase"
+]
+},
+{
+"s": "ъ",
+"k": [
+"cyrillic",
+"russian",
+"hard",
+"sign",
+"lowercase"
+]
+},
+{
+"s": "ы",
+"k": [
+"cyrillic",
+"russian",
+"yeru",
+"lowercase"
+]
+},
+{
+"s": "ь",
+"k": [
+"cyrillic",
+"russian",
+"soft",
+"sign",
+"lowercase"
+]
+},
+{
+"s": "э",
+"k": [
+"cyrillic",
+"russian",
+"e",
+"lowercase"
+]
+},
+{
+"s": "ю",
+"k": [
+"cyrillic",
+"russian",
+"yu",
+"lowercase"
+]
+},
+{
+"s": "я",
+"k": [
+"cyrillic",
+"russian",
+"ya",
+"lowercase"
+]
+},
+{
+"s": "А",
+"k": [
+"cyrillic",
+"russian",
+"a",
+"uppercase"
+]
+},
+{
+"s": "Б",
+"k": [
+"cyrillic",
+"russian",
+"be",
+"uppercase"
+]
+},
+{
+"s": "В",
+"k": [
+"cyrillic",
+"russian",
+"ve",
+"uppercase"
+]
+},
+{
+"s": "Г",
+"k": [
+"cyrillic",
+"russian",
+"ghe",
+"uppercase"
+]
+},
+{
+"s": "Д",
+"k": [
+"cyrillic",
+"russian",
+"de",
+"uppercase"
+]
+},
+{
+"s": "Е",
+"k": [
+"cyrillic",
+"russian",
+"ie",
+"uppercase"
+]
+},
+{
+"s": "Ё",
+"k": [
+"cyrillic",
+"russian",
+"io",
+"uppercase"
+]
+},
+{
+"s": "Ж",
+"k": [
+"cyrillic",
+"russian",
+"zhe",
+"uppercase"
+]
+},
+{
+"s": "З",
+"k": [
+"cyrillic",
+"russian",
+"ze",
+"uppercase"
+]
+},
+{
+"s": "И",
+"k": [
+"cyrillic",
+"russian",
+"i",
+"uppercase"
+]
+},
+{
+"s": "Й",
+"k": [
+"cyrillic",
+"russian",
+"short",
+"i",
+"uppercase"
+]
+},
+{
+"s": "К",
+"k": [
+"cyrillic",
+"russian",
+"ka",
+"uppercase"
+]
+},
+{
+"s": "Л",
+"k": [
+"cyrillic",
+"russian",
+"el",
+"uppercase"
+]
+},
+{
+"s": "М",
+"k": [
+"cyrillic",
+"russian",
+"em",
+"uppercase"
+]
+},
+{
+"s": "Н",
+"k": [
+"cyrillic",
+"russian",
+"en",
+"uppercase"
+]
+},
+{
+"s": "О",
+"k": [
+"cyrillic",
+"russian",
+"o",
+"uppercase"
+]
+},
+{
+"s": "П",
+"k": [
+"cyrillic",
+"russian",
+"pe",
+"uppercase"
+]
+},
+{
+"s": "Р",
+"k": [
+"cyrillic",
+"russian",
+"er",
+"uppercase"
+]
+},
+{
+"s": "С",
+"k": [
+"cyrillic",
+"russian",
+"es",
+"uppercase"
+]
+},
+{
+"s": "Т",
+"k": [
+"cyrillic",
+"russian",
+"te",
+"uppercase"
+]
+},
+{
+"s": "У",
+"k": [
+"cyrillic",
+"russian",
+"u",
+"uppercase"
+]
+},
+{
+"s": "Ф",
+"k": [
+"cyrillic",
+"russian",
+"ef",
+"uppercase"
+]
+},
+{
+"s": "Х",
+"k": [
+"cyrillic",
+"russian",
+"ha",
+"uppercase"
+]
+},
+{
+"s": "Ц",
+"k": [
+"cyrillic",
+"russian",
+"tse",
+"uppercase"
+]
+},
+{
+"s": "Ч",
+"k": [
+"cyrillic",
+"russian",
+"che",
+"uppercase"
+]
+},
+{
+"s": "Ш",
+"k": [
+"cyrillic",
+"russian",
+"sha",
+"uppercase"
+]
+},
+{
+"s": "Щ",
+"k": [
+"cyrillic",
+"russian",
+"shcha",
+"uppercase"
+]
+},
+{
+"s": "Ъ",
+"k": [
+"cyrillic",
+"russian",
+"hard",
+"sign",
+"uppercase"
+]
+},
+{
+"s": "Ы",
+"k": [
+"cyrillic",
+"russian",
+"yeru",
+"uppercase"
+]
+},
+{
+"s": "Ь",
+"k": [
+"cyrillic",
+"russian",
+"soft",
+"sign",
+"uppercase"
+]
+},
+{
+"s": "Э",
+"k": [
+"cyrillic",
+"russian",
+"e",
+"uppercase"
+]
+},
+{
+"s": "Ю",
+"k": [
+"cyrillic",
+"russian",
+"yu",
+"uppercase"
+]
+},
+{
+"s": "Я",
+"k": [
+"cyrillic",
+"russian",
+"ya",
+"uppercase"
+]
+}
+]
+}
+]

@@ -1,0 +1,863 @@
+{
+ "data": [
+  {
+   "type": "gif",
+   "id": "p1g00x",
+   "title": "Cats Dancing GIF",
+   "slug": "cats-p1g00x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g00x/200w.gif",
+     "webp": "https://media.giphy.com/p1g00x/200w.webp",
+     "width": "200",
+     "height": "100"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g00x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g01x",
+   "title": "Category Winner GIF",
+   "slug": "category-winner-p1g01x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g01x/200w.gif",
+     "webp": "https://media.giphy.com/p1g01x/200w.webp",
+     "width": "200",
+     "height": "113"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g01x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g02x",
+   "title": "Cats Playing Piano GIF",
+   "slug": "cats-playing-piano-p1g02x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g02x/200w.gif",
+     "webp": "https://media.giphy.com/p1g02x/200w.webp",
+     "width": "200",
+     "height": "126"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g02x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g03x",
+   "title": "Dancing Queen GIF",
+   "slug": "dancing-queen-p1g03x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g03x/200w.gif",
+     "webp": "https://media.giphy.com/p1g03x/200w.webp",
+     "width": "200",
+     "height": "139"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g03x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g04x",
+   "title": "Lol Funny Fail GIF",
+   "slug": "lol-funny-fail-p1g04x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g04x/200w.gif",
+     "webp": "https://media.giphy.com/p1g04x/200w.webp",
+     "width": "200",
+     "height": "152"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g04x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g05x",
+   "title": "Thank You GIF",
+   "slug": "thank-you-p1g05x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g05x/200w.gif",
+     "webp": "https://media.giphy.com/p1g05x/200w.webp",
+     "width": "200",
+     "height": "165"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g05x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g06x",
+   "title": "Facepalm Reaction GIF",
+   "slug": "facepalm-reaction-p1g06x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g06x/200w.gif",
+     "webp": "https://media.giphy.com/p1g06x/200w.webp",
+     "width": "200",
+     "height": "178"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g06x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g07x",
+   "title": "Catalog Dance GIF",
+   "slug": "catalog-dance-p1g07x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g07x/200w.gif",
+     "webp": "https://media.giphy.com/p1g07x/200w.webp",
+     "width": "200",
+     "height": "191"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g07x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g08x",
+   "title": "Excited Bird GIF",
+   "slug": "excited-bird-p1g08x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g08x/200w.gif",
+     "webp": "https://media.giphy.com/p1g08x/200w.webp",
+     "width": "200",
+     "height": "204"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g08x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g09x",
+   "title": "Funny Cat GIF by Studio",
+   "slug": "dancing-funny-cat-p1g09x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g09x/200w.gif",
+     "webp": "https://media.giphy.com/p1g09x/200w.webp",
+     "width": "200",
+     "height": "217"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g09x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g10x",
+   "title": "Thumbs Up GIF",
+   "slug": "thumbs-up-p1g10x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g10x/200w.gif",
+     "webp": "https://media.giphy.com/p1g10x/200w.webp",
+     "width": "200",
+     "height": "110"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g10x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g11x",
+   "title": "Category Winner GIF",
+   "slug": "category-winner-p1g11x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g11x/200w.gif",
+     "webp": "https://media.giphy.com/p1g11x/200w.webp",
+     "width": "200",
+     "height": "123"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g11x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g12x",
+   "title": "Cats Playing Piano GIF",
+   "slug": "cats-playing-piano-p1g12x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g12x/200w.gif",
+     "webp": "https://media.giphy.com/p1g12x/200w.webp",
+     "width": "200",
+     "height": "136"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g12x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g13x",
+   "title": "Dancing Queen GIF",
+   "slug": "dancing-queen-p1g13x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g13x/200w.gif",
+     "webp": "https://media.giphy.com/p1g13x/200w.webp",
+     "width": "200",
+     "height": "149"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g13x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g14x",
+   "title": "Lol Funny Fail GIF",
+   "slug": "lol-funny-fail-p1g14x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g14x/200w.gif",
+     "webp": "https://media.giphy.com/p1g14x/200w.webp",
+     "width": "200",
+     "height": "162"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g14x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g15x",
+   "title": "Thank You GIF",
+   "slug": "thank-you-p1g15x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g15x/200w.gif",
+     "webp": "https://media.giphy.com/p1g15x/200w.webp",
+     "width": "200",
+     "height": "175"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g15x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g16x",
+   "title": "Facepalm Reaction GIF",
+   "slug": "facepalm-reaction-p1g16x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g16x/200w.gif",
+     "webp": "https://media.giphy.com/p1g16x/200w.webp",
+     "width": "200",
+     "height": "188"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g16x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g17x",
+   "title": "Catalog Dance GIF",
+   "slug": "catalog-dance-p1g17x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g17x/200w.gif",
+     "webp": "https://media.giphy.com/p1g17x/200w.webp",
+     "width": "200",
+     "height": "201"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g17x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g18x",
+   "title": "Excited Bird GIF",
+   "slug": "excited-bird-p1g18x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g18x/200w.gif",
+     "webp": "https://media.giphy.com/p1g18x/200w.webp",
+     "width": "200",
+     "height": "214"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g18x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g19x",
+   "title": "Happy Dog GIF",
+   "slug": "happy-dog-p1g19x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g19x/200w.gif",
+     "webp": "https://media.giphy.com/p1g19x/200w.webp",
+     "width": "200",
+     "height": "107"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g19x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g20x",
+   "title": "Thumbs Up GIF",
+   "slug": "thumbs-up-p1g20x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g20x/200w.gif",
+     "webp": "https://media.giphy.com/p1g20x/200w.webp",
+     "width": "200",
+     "height": "120"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g20x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g21x",
+   "title": "Category Winner GIF",
+   "slug": "category-winner-p1g21x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g21x/200w.gif",
+     "webp": "https://media.giphy.com/p1g21x/200w.webp",
+     "width": "200",
+     "height": "133"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g21x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g22x",
+   "title": "Dancing Cat Meme",
+   "slug": "meme-p1g22x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g22x/200w.gif",
+     "webp": "https://media.giphy.com/p1g22x/200w.webp",
+     "width": "200",
+     "height": "146"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g22x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g23x",
+   "title": "Dancing Queen GIF",
+   "slug": "dancing-queen-p1g23x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g23x/200w.gif",
+     "webp": "https://media.giphy.com/p1g23x/200w.webp",
+     "width": "200",
+     "height": "159"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g23x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g24x",
+   "title": "Lol Funny Fail GIF",
+   "slug": "lol-funny-fail-p1g24x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g24x/200w.gif",
+     "webp": "https://media.giphy.com/p1g24x/200w.webp",
+     "width": "200",
+     "height": "172"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g24x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g25x",
+   "title": "Thank You GIF",
+   "slug": "thank-you-p1g25x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g25x/200w.gif",
+     "webp": "https://media.giphy.com/p1g25x/200w.webp",
+     "width": "200",
+     "height": "185"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g25x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g26x",
+   "title": "Facepalm Reaction GIF",
+   "slug": "facepalm-reaction-p1g26x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g26x/200w.gif",
+     "webp": "https://media.giphy.com/p1g26x/200w.webp",
+     "width": "200",
+     "height": "198"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g26x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g27x",
+   "title": "Catalog Dance GIF",
+   "slug": "catalog-dance-p1g27x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g27x/200w.gif",
+     "webp": "https://media.giphy.com/p1g27x/200w.webp",
+     "width": "200",
+     "height": "211"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g27x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g28x",
+   "title": "Excited Bird GIF",
+   "slug": "excited-bird-p1g28x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g28x/200w.gif",
+     "webp": "https://media.giphy.com/p1g28x/200w.webp",
+     "width": "200",
+     "height": "104"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g28x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g29x",
+   "title": "Happy Dog GIF",
+   "slug": "happy-dog-p1g29x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g29x/200w.gif",
+     "webp": "https://media.giphy.com/p1g29x/200w.webp",
+     "width": "200",
+     "height": "117"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g29x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g30x",
+   "title": "Thumbs Up GIF",
+   "slug": "thumbs-up-p1g30x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g30x/200w.gif",
+     "webp": "https://media.giphy.com/p1g30x/200w.webp",
+     "width": "200",
+     "height": "130"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g30x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g31x",
+   "title": "Category Winner GIF",
+   "slug": "category-winner-p1g31x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g31x/200w.gif",
+     "webp": "https://media.giphy.com/p1g31x/200w.webp",
+     "width": "200",
+     "height": "143"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g31x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g32x",
+   "title": "Cats Playing Piano GIF",
+   "slug": "cats-playing-piano-p1g32x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g32x/200w.gif",
+     "webp": "https://media.giphy.com/p1g32x/200w.webp",
+     "width": "200",
+     "height": "156"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g32x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g33x",
+   "title": "Dancing Queen GIF",
+   "slug": "dancing-queen-p1g33x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g33x/200w.gif",
+     "webp": "https://media.giphy.com/p1g33x/200w.webp",
+     "width": "200",
+     "height": "169"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g33x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g34x",
+   "title": "Lol Funny Fail GIF",
+   "slug": "lol-funny-fail-p1g34x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g34x/200w.gif",
+     "webp": "https://media.giphy.com/p1g34x/200w.webp",
+     "width": "200",
+     "height": "182"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g34x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g35x",
+   "title": "Thank You GIF",
+   "slug": "thank-you-p1g35x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g35x/200w.gif",
+     "webp": "https://media.giphy.com/p1g35x/200w.webp",
+     "width": "200",
+     "height": "195"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g35x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g36x",
+   "title": "Facepalm Reaction GIF",
+   "slug": "facepalm-reaction-p1g36x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g36x/200w.gif",
+     "webp": "https://media.giphy.com/p1g36x/200w.webp",
+     "width": "200",
+     "height": "208"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g36x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g37x",
+   "title": "Catalog Dance GIF",
+   "slug": "catalog-dance-p1g37x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g37x/200w.gif",
+     "webp": "https://media.giphy.com/p1g37x/200w.webp",
+     "width": "200",
+     "height": "101"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g37x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g38x",
+   "title": "Excited Bird GIF",
+   "slug": "excited-bird-p1g38x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g38x/200w.gif",
+     "webp": "https://media.giphy.com/p1g38x/200w.webp",
+     "width": "200",
+     "height": "114"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g38x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g39x",
+   "title": "Happy Dog GIF",
+   "slug": "happy-dog-p1g39x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g39x/200w.gif",
+     "webp": "https://media.giphy.com/p1g39x/200w.webp",
+     "width": "200",
+     "height": "127"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g39x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g40x",
+   "title": "Thumbs Up GIF",
+   "slug": "thumbs-up-p1g40x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g40x/200w.gif",
+     "webp": "https://media.giphy.com/p1g40x/200w.webp",
+     "width": "200",
+     "height": "140"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g40x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g41x",
+   "title": "Category Winner GIF",
+   "slug": "category-winner-p1g41x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g41x/200w.gif",
+     "webp": "https://media.giphy.com/p1g41x/200w.webp",
+     "width": "200",
+     "height": "153"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g41x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g42x",
+   "title": "Cats Playing Piano GIF",
+   "slug": "cats-playing-piano-p1g42x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g42x/200w.gif",
+     "webp": "https://media.giphy.com/p1g42x/200w.webp",
+     "width": "200",
+     "height": "166"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g42x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g43x",
+   "title": "Dancing Queen GIF",
+   "slug": "dancing-queen-p1g43x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g43x/200w.gif",
+     "webp": "https://media.giphy.com/p1g43x/200w.webp",
+     "width": "200",
+     "height": "179"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g43x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g44x",
+   "title": "Lol Funny Fail GIF",
+   "slug": "lol-funny-fail-p1g44x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g44x/200w.gif",
+     "webp": "https://media.giphy.com/p1g44x/200w.webp",
+     "width": "200",
+     "height": "192"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g44x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g45x",
+   "title": "Thank You GIF",
+   "slug": "thank-you-p1g45x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g45x/200w.gif",
+     "webp": "https://media.giphy.com/p1g45x/200w.webp",
+     "width": "200",
+     "height": "205"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g45x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g46x",
+   "title": "Facepalm Reaction GIF",
+   "slug": "facepalm-reaction-p1g46x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g46x/200w.gif",
+     "webp": "https://media.giphy.com/p1g46x/200w.webp",
+     "width": "200",
+     "height": "218"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g46x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g47x",
+   "title": "Catalog Dance GIF",
+   "slug": "catalog-dance-p1g47x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g47x/200w.gif",
+     "webp": "https://media.giphy.com/p1g47x/200w.webp",
+     "width": "200",
+     "height": "111"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g47x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g48x",
+   "title": "cat DANCING loop",
+   "slug": "loop-p1g48x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g48x/200w.gif",
+     "webp": "https://media.giphy.com/p1g48x/200w.webp",
+     "width": "200",
+     "height": "124"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g48x/giphy.gif"
+    }
+   }
+  },
+  {
+   "type": "gif",
+   "id": "p1g49x",
+   "title": "Happy Dog GIF",
+   "slug": "happy-dog-p1g49x",
+   "images": {
+    "fixed_width": {
+     "url": "https://media.giphy.com/p1g49x/200w.gif",
+     "webp": "https://media.giphy.com/p1g49x/200w.webp",
+     "width": "200",
+     "height": "137"
+    },
+    "original": {
+     "url": "https://media.giphy.com/p1g49x/giphy.gif"
+    }
+   }
+  }
+ ],
+ "pagination": {
+  "total_count": 100,
+  "count": 50,
+  "offset": 50
+ },
+ "meta": {
+  "status": 200,
+  "msg": "OK"
+ }
+}

@@ -1,0 +1,2323 @@
+[
+{
+"title": "Classic ASCII",
+"items": [
+{
+"s": "¯\\_(ツ)_/¯",
+"k": [
+"shrug",
+"idk",
+"whatever",
+"dunno"
+]
+},
+{
+"s": "(╯°□°)╯︵ ┻━┻",
+"k": [
+"tableflip",
+"table",
+"flip",
+"rage",
+"angry"
+]
+},
+{
+"s": "┬─┬ ノ( ゜-゜ノ)",
+"k": [
+"table",
+"unflip",
+"calm",
+"put",
+"back"
+]
+},
+{
+"s": "ಠ_ಠ",
+"k": [
+"disapproval",
+"look",
+"stare",
+"unamused"
+]
+},
+{
+"s": "( ͡° ͜ʖ ͡°)",
+"k": [
+"lenny",
+"face",
+"smirk",
+"suggestive"
+]
+},
+{
+"s": "(•_•)",
+"k": [
+"cool",
+"serious",
+"blank"
+]
+},
+{
+"s": "(⌐■_■)",
+"k": [
+"sunglasses",
+"cool",
+"deal",
+"with",
+"it"
+]
+},
+{
+"s": "¯\\(°_o)/¯",
+"k": [
+"shrug",
+"confused",
+"idk"
+]
+},
+{
+"s": "o_O",
+"k": [
+"confused",
+"surprised",
+"what"
+]
+},
+{
+"s": "O_o",
+"k": [
+"confused",
+"surprised",
+"what"
+]
+},
+{
+"s": "^_^",
+"k": [
+"happy",
+"smile",
+"cheerful"
+]
+},
+{
+"s": "-_-",
+"k": [
+"unamused",
+"annoyed",
+"meh"
+]
+},
+{
+"s": ">_<",
+"k": [
+"frustrated",
+"squint",
+"pain"
+]
+},
+{
+"s": "T_T",
+"k": [
+"cry",
+"sad",
+"tears"
+]
+},
+{
+"s": ":-)",
+"k": [
+"smile",
+"happy",
+"classic",
+"emoticon"
+]
+},
+{
+"s": ":-(",
+"k": [
+"sad",
+"frown",
+"classic",
+"emoticon"
+]
+},
+{
+"s": ";-)",
+"k": [
+"wink",
+"classic",
+"emoticon"
+]
+},
+{
+"s": ":-D",
+"k": [
+"grin",
+"laugh",
+"classic",
+"emoticon"
+]
+},
+{
+"s": ":-P",
+"k": [
+"tongue",
+"playful",
+"classic",
+"emoticon"
+]
+},
+{
+"s": ":-O",
+"k": [
+"shock",
+"surprise",
+"classic",
+"emoticon"
+]
+},
+{
+"s": "XD",
+"k": [
+"laugh",
+"lol"
+]
+},
+{
+"s": "<3",
+"k": [
+"heart",
+"love"
+]
+},
+{
+"s": "=^.^=",
+"k": [
+"cat",
+"smile"
+]
+},
+{
+"s": "(ಥ﹏ಥ)",
+"k": [
+"cry",
+"sad",
+"tears"
+]
+},
+{
+"s": "(ノಠ益ಠ)ノ",
+"k": [
+"rage",
+"angry",
+"flip"
+]
+},
+{
+"s": "(づ。◕‿‿◕。)づ",
+"k": [
+"hug",
+"give",
+"love"
+]
+}
+]
+},
+{
+"title": "Happy",
+"items": [
+{
+"s": "(◕‿◕)",
+"k": [
+"happy",
+"smile",
+"cute"
+]
+},
+{
+"s": "(｡◕‿◕｡)",
+"k": [
+"happy",
+"smile",
+"cute"
+]
+},
+{
+"s": "(≧◡≦)",
+"k": [
+"happy",
+"joy",
+"grin"
+]
+},
+{
+"s": "(^▽^)",
+"k": [
+"happy",
+"joy",
+"laugh"
+]
+},
+{
+"s": "(＾▽＾)",
+"k": [
+"happy",
+"joy",
+"laugh"
+]
+},
+{
+"s": "(*^‿^*)",
+"k": [
+"happy",
+"blush",
+"smile"
+]
+},
+{
+"s": "＼(^o^)／",
+"k": [
+"happy",
+"cheer",
+"hooray",
+"banzai"
+]
+},
+{
+"s": "ヽ(´▽`)/",
+"k": [
+"happy",
+"cheer",
+"joy"
+]
+},
+{
+"s": "(◠‿◠)",
+"k": [
+"happy",
+"smile",
+"content"
+]
+},
+{
+"s": "(☆▽☆)",
+"k": [
+"happy",
+"excited",
+"stars"
+]
+},
+{
+"s": "(*≧▽≦)",
+"k": [
+"happy",
+"excited",
+"joy"
+]
+},
+{
+"s": "٩(◕‿◕)۶",
+"k": [
+"happy",
+"cheer",
+"excited"
+]
+},
+{
+"s": "(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧",
+"k": [
+"happy",
+"sparkle",
+"magic",
+"excited"
+]
+},
+{
+"s": "o(≧▽≦)o",
+"k": [
+"happy",
+"excited",
+"cheer"
+]
+},
+{
+"s": "(´∀｀)",
+"k": [
+"happy",
+"smile",
+"calm"
+]
+},
+{
+"s": "(≧ω≦)",
+"k": [
+"happy",
+"joy",
+"cute"
+]
+},
+{
+"s": "(⌒‿⌒)",
+"k": [
+"happy",
+"smile",
+"content"
+]
+},
+{
+"s": "(｡♥‿♥｡)",
+"k": [
+"love",
+"happy",
+"heart",
+"eyes"
+]
+},
+{
+"s": "(✿◠‿◠)",
+"k": [
+"happy",
+"flower",
+"cute"
+]
+},
+{
+"s": "ヾ(＾∇＾)",
+"k": [
+"happy",
+"wave",
+"joy"
+]
+},
+{
+"s": "(^_^)v",
+"k": [
+"happy",
+"peace",
+"victory"
+]
+},
+{
+"s": "＼(◎o◎)／",
+"k": [
+"happy",
+"surprised",
+"cheer"
+]
+},
+{
+"s": "(ᵔᴥᵔ)",
+"k": [
+"happy",
+"cute",
+"puppy"
+]
+},
+{
+"s": "(´▽`ʃ♡ƪ)",
+"k": [
+"love",
+"happy",
+"kiss"
+]
+}
+]
+},
+{
+"title": "Greeting",
+"items": [
+{
+"s": "(´• ω •`)ﾉ",
+"k": [
+"hello",
+"hi",
+"wave",
+"greeting"
+]
+},
+{
+"s": "(^-^)/",
+"k": [
+"hello",
+"hi",
+"wave",
+"greeting"
+]
+},
+{
+"s": "ヾ(＾-＾)ノ",
+"k": [
+"hello",
+"hi",
+"wave",
+"greeting"
+]
+},
+{
+"s": "(｡･ω･)ﾉﾞ",
+"k": [
+"hello",
+"hi",
+"wave",
+"greeting"
+]
+},
+{
+"s": "(*´▽`*)ﾉ",
+"k": [
+"hello",
+"hi",
+"wave"
+]
+},
+{
+"s": "o(^▽^)o ﾉ",
+"k": [
+"hello",
+"hi",
+"wave"
+]
+},
+{
+"s": "(^o^)/",
+"k": [
+"hello",
+"hi",
+"wave"
+]
+},
+{
+"s": "( ´ ▽ ` )ﾉ",
+"k": [
+"hello",
+"hi",
+"wave"
+]
+},
+{
+"s": "(ﾉ´ з `)ノ",
+"k": [
+"goodbye",
+"bye",
+"kiss",
+"wave"
+]
+},
+{
+"s": "(ﾉ^_^)ﾉ",
+"k": [
+"bye",
+"goodbye",
+"wave"
+]
+},
+{
+"s": "ヾ(´︶`♡)ﾉ",
+"k": [
+"hello",
+"love",
+"wave"
+]
+},
+{
+"s": "(・∀・)ノ",
+"k": [
+"hello",
+"hi",
+"wave"
+]
+},
+{
+"s": "(*^_^*)ノ",
+"k": [
+"hello",
+"hi",
+"wave"
+]
+},
+{
+"s": "(^^)/~~~",
+"k": [
+"bye",
+"goodbye",
+"wave"
+]
+},
+{
+"s": "(´-ω-`)ﾉ",
+"k": [
+"hello",
+"hi",
+"wave",
+"sleepy"
+]
+},
+{
+"s": "ヾ(^∇^)",
+"k": [
+"hello",
+"hi",
+"greeting"
+]
+},
+{
+"s": "(^_^)ゞ",
+"k": [
+"salute",
+"greeting",
+"hello"
+]
+},
+{
+"s": "(｀･ω･´)ゞ",
+"k": [
+"salute",
+"yes",
+"sir"
+]
+},
+{
+"s": "m(_ _)m",
+"k": [
+"bow",
+"thanks",
+"respect"
+]
+},
+{
+"s": "orz",
+"k": [
+"bow",
+"kneel",
+"despair"
+]
+},
+{
+"s": "(*_ _)人",
+"k": [
+"bow",
+"please",
+"thanks"
+]
+},
+{
+"s": "(ᵔ◡ᵔ)ﾉ",
+"k": [
+"hello",
+"hi",
+"wave"
+]
+}
+]
+},
+{
+"title": "Hugging",
+"items": [
+{
+"s": "(づ｡◕‿‿◕｡)づ",
+"k": [
+"hug",
+"embrace",
+"love"
+]
+},
+{
+"s": "(っ˘з(˘⌣˘ )",
+"k": [
+"hug",
+"kiss",
+"love"
+]
+},
+{
+"s": "(⊃｡•́‿•̀｡)⊃",
+"k": [
+"hug",
+"embrace"
+]
+},
+{
+"s": "(つ≧▽≦)つ",
+"k": [
+"hug",
+"embrace",
+"happy"
+]
+},
+{
+"s": "(づ￣ ³￣)づ",
+"k": [
+"hug",
+"kiss"
+]
+},
+{
+"s": "⊂(・ω・*⊂)",
+"k": [
+"hug",
+"embrace"
+]
+},
+{
+"s": "(っ´▽｀)っ",
+"k": [
+"hug",
+"embrace",
+"happy"
+]
+},
+{
+"s": "(ノ_<。)",
+"k": [
+"hug",
+"comfort",
+"sad"
+]
+},
+{
+"s": "(つ´∀｀)つ",
+"k": [
+"hug",
+"embrace",
+"happy"
+]
+},
+{
+"s": "(⊃ ・ω・)⊃",
+"k": [
+"hug",
+"embrace"
+]
+},
+{
+"s": "(ﾉ´▽`)ﾉ♪",
+"k": [
+"hug",
+"cheer"
+]
+},
+{
+"s": "ʕっ•ᴥ•ʔっ",
+"k": [
+"bear",
+"hug"
+]
+},
+{
+"s": "(つ✧ω✧)つ",
+"k": [
+"hug",
+"sparkle"
+]
+},
+{
+"s": "(づ◔‿◔)づ",
+"k": [
+"hug",
+"cute"
+]
+},
+{
+"s": "⊂((・▽・))⊃",
+"k": [
+"hug",
+"big",
+"embrace"
+]
+},
+{
+"s": "(⊃´▽`)⊃",
+"k": [
+"hug",
+"happy"
+]
+},
+{
+"s": "(っ・∀・)っ",
+"k": [
+"hug",
+"open",
+"arms"
+]
+},
+{
+"s": "(づ˘ ³˘)づ♡",
+"k": [
+"hug",
+"kiss",
+"love"
+]
+},
+{
+"s": "(｡•́︿•̀｡)つ",
+"k": [
+"hug",
+"comfort",
+"cry"
+]
+},
+{
+"s": "(*´▽`*)つ",
+"k": [
+"hug",
+"happy"
+]
+}
+]
+},
+{
+"title": "Winking",
+"items": [
+{
+"s": "(^_~)",
+"k": [
+"wink",
+"flirt"
+]
+},
+{
+"s": "(｡•̀ᴗ-)✧",
+"k": [
+"wink",
+"cute",
+"sparkle"
+]
+},
+{
+"s": "(^_-)",
+"k": [
+"wink",
+"flirt"
+]
+},
+{
+"s": "(｡•̀‿-)",
+"k": [
+"wink",
+"cute"
+]
+},
+{
+"s": "(◕‿-)",
+"k": [
+"wink",
+"cute"
+]
+},
+{
+"s": "(^_−)☆",
+"k": [
+"wink",
+"star"
+]
+},
+{
+"s": "(・ω<)☆",
+"k": [
+"wink",
+"star",
+"cute",
+"tongue"
+]
+},
+{
+"s": "(´ω`)ゞ",
+"k": [
+"wink",
+"salute"
+]
+},
+{
+"s": "(¬‿¬)",
+"k": [
+"smirk",
+"wink",
+"sly"
+]
+},
+{
+"s": "(≖‿≖)",
+"k": [
+"smirk",
+"sly"
+]
+},
+{
+"s": "(｀∀´)Ψ",
+"k": [
+"devil",
+"smirk",
+"mischief"
+]
+},
+{
+"s": "( ͡~ ͜ʖ ͡°)",
+"k": [
+"wink",
+"lenny",
+"smirk"
+]
+},
+{
+"s": "(^_<)〜☆",
+"k": [
+"wink",
+"star"
+]
+},
+{
+"s": "(*^_~)",
+"k": [
+"wink",
+"flirt"
+]
+},
+{
+"s": "(｡•̀ᴗ•́｡)",
+"k": [
+"confident",
+"smile",
+"cute"
+]
+},
+{
+"s": "(＾ｖ＾)",
+"k": [
+"wink",
+"happy",
+"peace"
+]
+},
+{
+"s": "(*^ω~*)",
+"k": [
+"wink",
+"cute"
+]
+},
+{
+"s": "(^_-)-☆",
+"k": [
+"wink",
+"star"
+]
+},
+{
+"s": "( ˘ ³˘)♥",
+"k": [
+"kiss",
+"wink",
+"love"
+]
+},
+{
+"s": "(◕ᴗ◕✿)",
+"k": [
+"cute",
+"flower",
+"smile"
+]
+},
+{
+"s": "(｡^‿^｡)",
+"k": [
+"wink",
+"smile"
+]
+},
+{
+"s": "(ᵔ◡ᵔ)",
+"k": [
+"content",
+"smile",
+"cute"
+]
+}
+]
+},
+{
+"title": "Apologising",
+"items": [
+{
+"s": "(ｏ´_｀ｏ)ゞ",
+"k": [
+"sorry",
+"apologize"
+]
+},
+{
+"s": "(-人-)",
+"k": [
+"sorry",
+"please",
+"pray"
+]
+},
+{
+"s": "(´-ω-｀)",
+"k": [
+"sorry",
+"sad",
+"regret"
+]
+},
+{
+"s": "m(__)m",
+"k": [
+"sorry",
+"apologize",
+"bow"
+]
+},
+{
+"s": "_(._.)_",
+"k": [
+"sorry",
+"bow",
+"apologize"
+]
+},
+{
+"s": "(｡_｡)ゞ",
+"k": [
+"sorry",
+"salute"
+]
+},
+{
+"s": "(´･_･`)",
+"k": [
+"sorry",
+"sad",
+"worried"
+]
+},
+{
+"s": "(つД｀)",
+"k": [
+"sorry",
+"cry"
+]
+},
+{
+"s": "(*_ _)",
+"k": [
+"sorry",
+"bow"
+]
+},
+{
+"s": "(ノ_ _)ノ",
+"k": [
+"sorry",
+"bow",
+"please"
+]
+},
+{
+"s": "m(_ _;)m",
+"k": [
+"sorry",
+"nervous",
+"apologize",
+"bow"
+]
+},
+{
+"s": "(ﾉ´･ω･)ﾉ ﾐ ┸━┸",
+"k": [
+"sorry",
+"flip",
+"table",
+"oops"
+]
+},
+{
+"s": "(´;ω;｀)ゞ",
+"k": [
+"sorry",
+"cry",
+"bow"
+]
+},
+{
+"s": "(ι´Д｀)ﾉ",
+"k": [
+"sorry",
+"please"
+]
+},
+{
+"s": "(；一_一)",
+"k": [
+"sorry",
+"guilty",
+"awkward"
+]
+},
+{
+"s": "( ˘･з･)",
+"k": [
+"sorry",
+"sulk"
+]
+},
+{
+"s": "(ﾉД`)",
+"k": [
+"sorry",
+"cry"
+]
+},
+{
+"s": "(´• ω •`)",
+"k": [
+"sorry",
+"sad",
+"cute"
+]
+}
+]
+},
+{
+"title": "Nosebleeding",
+"items": [
+{
+"s": "(*´Д`*)ﾉ ･:*ﾟ♡",
+"k": [
+"nosebleed",
+"love",
+"excited"
+]
+},
+{
+"s": "(´Д`*) ﾟ",
+"k": [
+"nosebleed",
+"embarrassed"
+]
+},
+{
+"s": "(*ﾟ∀ﾟ*)ｰ───┛",
+"k": [
+"nosebleed",
+"excited"
+]
+},
+{
+"s": "( ﾟдﾟ)ｰ───┛",
+"k": [
+"nosebleed",
+"shock"
+]
+},
+{
+"s": "(*´﹃｀*)━",
+"k": [
+"nosebleed",
+"drool"
+]
+},
+{
+"s": "(*´ｪ`*)ﾉ",
+"k": [
+"nosebleed",
+"shy"
+]
+},
+{
+"s": "(*ﾟДﾟ)ｰ┛",
+"k": [
+"nosebleed",
+"excited"
+]
+},
+{
+"s": "(´ﾟдﾟ`)ｰ┘",
+"k": [
+"nosebleed",
+"shocked"
+]
+},
+{
+"s": "(*ﾟ▽ﾟ*)ｰ┛",
+"k": [
+"nosebleed",
+"happy"
+]
+},
+{
+"s": "( ´Д`)ｰ┛",
+"k": [
+"nosebleed",
+"tired"
+]
+},
+{
+"s": "(,,ﾟДﾟ)ｰ┛",
+"k": [
+"nosebleed",
+"shock"
+]
+},
+{
+"s": "(*´ω｀*)ｰ┛",
+"k": [
+"nosebleed",
+"cute"
+]
+},
+{
+"s": "(^Д^)ｰ┛",
+"k": [
+"nosebleed",
+"laugh"
+]
+},
+{
+"s": "(*´Д｀*)ﾟ･:*",
+"k": [
+"nosebleed",
+"sparkle"
+]
+},
+{
+"s": "(´∀`)ｰ┛",
+"k": [
+"nosebleed",
+"happy"
+]
+},
+{
+"s": "(*゜Д゜*)ｰ┛",
+"k": [
+"nosebleed",
+"shock"
+]
+},
+{
+"s": "(ﾟ∀ﾟ)ｰ┛",
+"k": [
+"nosebleed",
+"hype"
+]
+},
+{
+"s": "(*´∀`*)ｰ┛",
+"k": [
+"nosebleed",
+"love"
+]
+},
+{
+"s": "(*^Д^*)ｰ┛",
+"k": [
+"nosebleed",
+"excited"
+]
+},
+{
+"s": "(´▽`*)ｰ┛",
+"k": [
+"nosebleed",
+"blush"
+]
+}
+]
+},
+{
+"title": "Hiding",
+"items": [
+{
+"s": "┬┴┬┴┤(･_├┬┴┬┴",
+"k": [
+"hide",
+"peek",
+"wall"
+]
+},
+{
+"s": "┬┴┬┴┤･ω･)ﾉ├┬┴┬┴",
+"k": [
+"hide",
+"peek",
+"wall"
+]
+},
+{
+"s": "|ω・)",
+"k": [
+"peek",
+"hide",
+"shy"
+]
+},
+{
+"s": "(／_＼)",
+"k": [
+"hide",
+"cover",
+"eyes",
+"shy"
+]
+},
+{
+"s": "(ノ_<)",
+"k": [
+"hide",
+"shy",
+"cry"
+]
+},
+{
+"s": "|д`)",
+"k": [
+"peek",
+"hide",
+"sneak"
+]
+},
+{
+"s": "(⊙_⊙)",
+"k": [
+"wide",
+"eyes",
+"stare",
+"shock"
+]
+},
+{
+"s": "ヽ(´ー｀)ノ",
+"k": [
+"hide",
+"relax"
+]
+},
+{
+"s": "(,,ﾟДﾟ)",
+"k": [
+"scared",
+"hide"
+]
+},
+{
+"s": "┌(._.)┐",
+"k": [
+"hide",
+"shy",
+"sneak"
+]
+},
+{
+"s": "(ﾉ´⌣`)ﾉ",
+"k": [
+"hide",
+"shy"
+]
+},
+{
+"s": "＿|￣|○",
+"k": [
+"hide",
+"despair",
+"fail"
+]
+},
+{
+"s": "(´-ω-`)",
+"k": [
+"hide",
+"sleepy"
+]
+},
+{
+"s": "(ﾉωヽ)",
+"k": [
+"hide",
+"shy",
+"cover",
+"face"
+]
+},
+{
+"s": "(*/ω＼*)",
+"k": [
+"shy",
+"blush",
+"hide"
+]
+},
+{
+"s": "(/ω＼)",
+"k": [
+"shy",
+"hide",
+"blush"
+]
+},
+{
+"s": "(〃ノωノ)",
+"k": [
+"shy",
+"hide",
+"blush"
+]
+},
+{
+"s": "(*ﾉωﾉ)",
+"k": [
+"shy",
+"hide",
+"blush"
+]
+},
+{
+"s": "ミ(ノ_ _)ノ",
+"k": [
+"hide",
+"duck"
+]
+},
+{
+"s": "┬┴┬┴┤( ͡° ͜ʖ├┬┴┬┴",
+"k": [
+"peek",
+"lenny",
+"hide"
+]
+}
+]
+},
+{
+"title": "Sad",
+"items": [
+{
+"s": "(╥﹏╥)",
+"k": [
+"sad",
+"cry",
+"tears"
+]
+},
+{
+"s": "(T_T)",
+"k": [
+"sad",
+"cry",
+"tears"
+]
+},
+{
+"s": "(；︵；)",
+"k": [
+"sad",
+"cry",
+"tears"
+]
+},
+{
+"s": "(ಥ_ಥ)",
+"k": [
+"sad",
+"cry",
+"tears"
+]
+},
+{
+"s": "(ノ﹏ヽ)",
+"k": [
+"sad",
+"cry"
+]
+},
+{
+"s": "(´;ω;`)",
+"k": [
+"sad",
+"cry",
+"tears"
+]
+},
+{
+"s": "(｡•́︿•̀｡)",
+"k": [
+"sad",
+"upset"
+]
+},
+{
+"s": "(｡ﾉω＼｡)",
+"k": [
+"sad",
+"cry",
+"shy"
+]
+},
+{
+"s": "(；´Д｀)",
+"k": [
+"sad",
+"tired",
+"worried"
+]
+},
+{
+"s": "(╯︵╰,)",
+"k": [
+"sad",
+"cry"
+]
+},
+{
+"s": "(ToT)",
+"k": [
+"sad",
+"cry"
+]
+},
+{
+"s": "(´；ω；`)",
+"k": [
+"sad",
+"cry",
+"tears"
+]
+},
+{
+"s": "( ; ω ; )",
+"k": [
+"sad",
+"cry",
+"tears"
+]
+},
+{
+"s": "(；へ：)",
+"k": [
+"sad",
+"worried"
+]
+},
+{
+"s": "(個_個)",
+"k": [
+"sad",
+"lonely"
+]
+},
+{
+"s": "(´-﹏-`；)",
+"k": [
+"sad",
+"nervous"
+]
+},
+{
+"s": "。･ﾟ･(ﾉД`)･ﾟ･。",
+"k": [
+"sad",
+"sob",
+"cry"
+]
+},
+{
+"s": "(ᗒᗣᗕ)՞",
+"k": [
+"sad",
+"cry",
+"scared"
+]
+},
+{
+"s": "(｡•́ - •̀｡)",
+"k": [
+"sad",
+"pout"
+]
+},
+{
+"s": "(´・_・`)",
+"k": [
+"sad",
+"depressed"
+]
+},
+{
+"s": "(┳Д┳)",
+"k": [
+"sad",
+"cry",
+"tears"
+]
+},
+{
+"s": "(ಡ‸ಡ)",
+"k": [
+"sad",
+"cry"
+]
+},
+{
+"s": "(;_;)",
+"k": [
+"sad",
+"cry",
+"tears"
+]
+},
+{
+"s": "ε(´סּ︵סּ`)з",
+"k": [
+"sad",
+"cry",
+"despair"
+]
+}
+]
+},
+{
+"title": "Angry",
+"items": [
+{
+"s": "(╬ Ò﹏Ó)",
+"k": [
+"angry",
+"mad",
+"furious"
+]
+},
+{
+"s": "(ノಠ益ಠ)ノ彡",
+"k": [
+"angry",
+"rage",
+"mad"
+]
+},
+{
+"s": "(｀Д´)",
+"k": [
+"angry",
+"mad"
+]
+},
+{
+"s": "(｀ー´)",
+"k": [
+"angry",
+"annoyed"
+]
+},
+{
+"s": "ヽ(`Д´)ﾉ",
+"k": [
+"angry",
+"mad",
+"rage"
+]
+},
+{
+"s": "(＃｀д´)ﾉ",
+"k": [
+"angry",
+"mad"
+]
+},
+{
+"s": "(▼皿▼#)",
+"k": [
+"angry",
+"mad",
+"furious"
+]
+},
+{
+"s": "٩(╬ʘ益ʘ╬)۶",
+"k": [
+"angry",
+"mad",
+"rage",
+"furious"
+]
+},
+{
+"s": "(ㆆ_ㆆ)",
+"k": [
+"angry",
+"annoyed",
+"suspicious"
+]
+},
+{
+"s": "(`皿´＃)",
+"k": [
+"angry",
+"mad"
+]
+},
+{
+"s": "(ﾟДﾟ#)",
+"k": [
+"angry",
+"mad"
+]
+},
+{
+"s": "(‡▼益▼)",
+"k": [
+"angry",
+"evil",
+"rage"
+]
+},
+{
+"s": "(ꐦ°᷄д°᷅)",
+"k": [
+"angry",
+"mad",
+"rage"
+]
+},
+{
+"s": "ヽ(ｏ`皿′ｏ)ﾉ",
+"k": [
+"angry",
+"rage",
+"furious"
+]
+},
+{
+"s": "(҂`з´)",
+"k": [
+"angry",
+"mad"
+]
+},
+{
+"s": "(ノ°益°)ノ",
+"k": [
+"angry",
+"rage"
+]
+},
+{
+"s": "(`⌒´メ)",
+"k": [
+"angry",
+"mad"
+]
+},
+{
+"s": "(╯✧Д✧)╯",
+"k": [
+"angry",
+"rage"
+]
+},
+{
+"s": "(#`Д´)",
+"k": [
+"angry",
+"mad"
+]
+},
+{
+"s": "(* ￣︿￣)",
+"k": [
+"angry",
+"annoyed",
+"upset"
+]
+},
+{
+"s": "(¬_¬)",
+"k": [
+"annoyed",
+"unimpressed",
+"side",
+"eye"
+]
+},
+{
+"s": "(ᗒᗩᗕ)",
+"k": [
+"angry",
+"rage"
+]
+}
+]
+},
+{
+"title": "Confused",
+"items": [
+{
+"s": "(・・?)",
+"k": [
+"confused",
+"what",
+"question"
+]
+},
+{
+"s": "(・_・ヾ",
+"k": [
+"confused",
+"what"
+]
+},
+{
+"s": "(⊙_☉)",
+"k": [
+"confused",
+"shock",
+"eyes"
+]
+},
+{
+"s": "(°ロ°)",
+"k": [
+"shock",
+"surprise",
+"confused"
+]
+},
+{
+"s": "(°◇°)",
+"k": [
+"confused",
+"shock"
+]
+},
+{
+"s": "(´･_･`)?",
+"k": [
+"confused",
+"question"
+]
+},
+{
+"s": "ヽ(ー_ー )ノ",
+"k": [
+"confused",
+"shrug"
+]
+},
+{
+"s": "(・・｡)ゞ",
+"k": [
+"confused",
+"scratching",
+"head"
+]
+},
+{
+"s": "(ーー;)",
+"k": [
+"confused",
+"sweat",
+"nervous"
+]
+},
+{
+"s": "(・_・;)",
+"k": [
+"confused",
+"sweat",
+"nervous"
+]
+},
+{
+"s": "(≧ヮ≦) ?",
+"k": [
+"confused",
+"question"
+]
+},
+{
+"s": "(｡･ω･｡)?",
+"k": [
+"confused",
+"question"
+]
+},
+{
+"s": "(°_°)?",
+"k": [
+"confused",
+"question"
+]
+},
+{
+"s": "щ(ºДºщ)",
+"k": [
+"confused",
+"shock",
+"please",
+"why"
+]
+},
+{
+"s": "(≖_≖ )",
+"k": [
+"confused",
+"suspicious"
+]
+},
+{
+"s": "(◎_◎;)",
+"k": [
+"confused",
+"shocked"
+]
+},
+{
+"s": "(ﾟ_ﾟ)?",
+"k": [
+"confused",
+"question"
+]
+},
+{
+"s": "(*_*)",
+"k": [
+"dazed",
+"confused"
+]
+},
+{
+"s": "(@_@)",
+"k": [
+"dizzy",
+"confused"
+]
+},
+{
+"s": "(x_x)",
+"k": [
+"dead",
+"dizzy",
+"knocked",
+"out"
+]
+},
+{
+"s": "(◕_◕)?",
+"k": [
+"confused",
+"question"
+]
+},
+{
+"s": "(°ー°〃)",
+"k": [
+"confused",
+"shrug"
+]
+},
+{
+"s": "┐(´д`)┌",
+"k": [
+"shrug",
+"whatever",
+"helpless"
+]
+}
+]
+},
+{
+"title": "Table flipping",
+"items": [
+{
+"s": "┬─┬ノ( º _ ºノ)",
+"k": [
+"table",
+"unflip",
+"calm"
+]
+},
+{
+"s": "(ノಠ益ಠ)ノ彡┻━┻",
+"k": [
+"tableflip",
+"rage",
+"angry"
+]
+},
+{
+"s": "┻━┻ ︵ヽ(`Д´)ﾉ︵ ┻━┻",
+"k": [
+"tableflip",
+"double",
+"rage"
+]
+},
+{
+"s": "(ﾉ｀Д´)ﾉ彡┻━┻",
+"k": [
+"tableflip",
+"angry"
+]
+},
+{
+"s": "(┛◉Д◉)┛彡┻━┻",
+"k": [
+"tableflip",
+"shock"
+]
+},
+{
+"s": "(┛ಸ_ಸ)┛彡┻━┻",
+"k": [
+"tableflip",
+"rage"
+]
+},
+{
+"s": "(ノ°益°)ノ彡┻━┻",
+"k": [
+"tableflip",
+"rage"
+]
+},
+{
+"s": "(┛✧Д✧))┛彡┻━┻",
+"k": [
+"tableflip",
+"rage"
+]
+},
+{
+"s": "┻━┻︵ \\(°□°)/ ︵ ┻━┻",
+"k": [
+"tableflip",
+"double",
+"rage"
+]
+},
+{
+"s": "(ノ ゜Д゜)ノ ︵ ┻━┻",
+"k": [
+"tableflip",
+"shock"
+]
+},
+{
+"s": "(ノಥ益ಥ）ノ ┻━┻",
+"k": [
+"tableflip",
+"cry",
+"rage"
+]
+},
+{
+"s": "(╯°Д°)╯︵/(.□ . \\)",
+"k": [
+"tableflip",
+"throw",
+"rage"
+]
+},
+{
+"s": "(┛`Д´)┛彡┻━┻",
+"k": [
+"tableflip",
+"angry"
+]
+},
+{
+"s": "(ﾉ-_-)ﾉ ~┻━┻",
+"k": [
+"tableflip",
+"annoyed"
+]
+},
+{
+"s": "(ノ￣皿￣)ノ ⌒┻━┻",
+"k": [
+"tableflip",
+"furious"
+]
+},
+{
+"s": "(╯‵□′)╯︵┻━┻",
+"k": [
+"tableflip",
+"angry"
+]
+},
+{
+"s": "┬──┬ ノ(ò_óノ)",
+"k": [
+"table",
+"unflip",
+"calm"
+]
+},
+{
+"s": "┬─┬ ︵ /(.□. \\）",
+"k": [
+"table",
+"fall"
+]
+},
+{
+"s": "(ノ'□')ノ︵ ┻━┻",
+"k": [
+"tableflip"
+]
+},
+{
+"s": "(☞ﾟヮﾟ)☞ ┻━┻",
+"k": [
+"tableflip",
+"point"
+]
+}
+]
+},
+{
+"title": "Animals",
+"items": [
+{
+"s": "ʕ•ᴥ•ʔ",
+"k": [
+"bear"
+]
+},
+{
+"s": "ʕ ᵔᴥᵔ ʔ",
+"k": [
+"bear",
+"cute"
+]
+},
+{
+"s": "ʕ·͡ᴥ·ʔ",
+"k": [
+"bear",
+"cute"
+]
+},
+{
+"s": "(=^･ω･^=)",
+"k": [
+"cat",
+"kitty",
+"neko"
+]
+},
+{
+"s": "(=^･ｪ･^=)",
+"k": [
+"cat",
+"kitty",
+"neko"
+]
+},
+{
+"s": "=＾● ⋏ ●＾=",
+"k": [
+"cat",
+"kitty",
+"neko"
+]
+},
+{
+"s": "(ﾐ๏ ⋏ ๏ﾐ)",
+"k": [
+"cat",
+"kitty"
+]
+},
+{
+"s": "ฅ^•ﻌ•^ฅ",
+"k": [
+"cat",
+"kitty",
+"paw"
+]
+},
+{
+"s": "(^・ω・^ )",
+"k": [
+"cat",
+"kitty"
+]
+},
+{
+"s": "(ↀДↀ)",
+"k": [
+"cat",
+"shock",
+"surprised"
+]
+},
+{
+"s": "U・ᴥ・U",
+"k": [
+"dog",
+"puppy"
+]
+},
+{
+"s": "∪･ω･∪",
+"k": [
+"dog",
+"puppy"
+]
+},
+{
+"s": "(◕ᴥ◕ʋ)",
+"k": [
+"dog",
+"puppy"
+]
+},
+{
+"s": "V●ᴥ●V",
+"k": [
+"dog",
+"puppy"
+]
+},
+{
+"s": "（⌒(ｴ)⌒）",
+"k": [
+"bear"
+]
+},
+{
+"s": "(´(ｪ)｀)",
+"k": [
+"bear"
+]
+},
+{
+"s": "(Ｕ・ᴥ・)",
+"k": [
+"dog",
+"puppy"
+]
+},
+{
+"s": "(°ᴥ°)",
+"k": [
+"animal",
+"cute"
+]
+},
+{
+"s": "<コ:彡",
+"k": [
+"squid",
+"octopus"
+]
+},
+{
+"s": "<('O')>",
+"k": [
+"bird",
+"penguin",
+"duck"
+]
+},
+{
+"s": "(･ө･)",
+"k": [
+"mouse",
+"animal"
+]
+},
+{
+"s": "(°◡°♡)",
+"k": [
+"animal",
+"love"
+]
+},
+{
+"s": "( ¨̮ )",
+"k": [
+"bunny",
+"rabbit"
+]
+},
+{
+"s": "(\\/) (°,,°) (\\/)",
+"k": [
+"crab",
+"lobster"
+]
+},
+{
+"s": "(｡ŏ﹏ŏ)",
+"k": [
+"animal",
+"cute",
+"scared"
+]
+},
+{
+"s": "(ᵒᴥᵒ#)",
+"k": [
+"animal",
+"dog"
+]
+},
+{
+"s": "(´⊙ω⊙`)",
+"k": [
+"owl"
+]
+},
+{
+"s": "ʅ(°ε°)ʃ",
+"k": [
+"pig",
+"animal"
+]
+},
+{
+"s": "(ˇ⊥ˇ)",
+"k": [
+"frog"
+]
+},
+{
+"s": "（´⊙ω⊙`）",
+"k": [
+"owl"
+]
+},
+{
+"s": "(⊙ω⊙)",
+"k": [
+"owl",
+"animal"
+]
+},
+{
+"s": "(ΘεΘ;)",
+"k": [
+"bird",
+"animal"
+]
+},
+{
+"s": "~(^._.)",
+"k": [
+"mouse",
+"snake",
+"animal"
+]
+},
+{
+"s": "(°° ) ~ ~",
+"k": [
+"snake",
+"animal"
+]
+}
+]
+}
+]

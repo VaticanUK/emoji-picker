@@ -1,0 +1,7 @@
+.superpowers/
+.build/
+*.app
+.DS_Store
+build/
+docs/
+.vscode/
