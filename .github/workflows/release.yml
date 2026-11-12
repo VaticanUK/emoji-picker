@@ -39,9 +39,6 @@ jobs:
           sw_vers
           swift --version
 
-      - name: Run tests
-        run: swift test -j 1
-
       - name: Import signing certificate
         env:
           MACOS_CERT_P12: ${{ secrets.MACOS_CERT_P12 }}
@@ -56,6 +53,24 @@ jobs:
           EMOJI_PICKER_P12="$P12" EMOJI_PICKER_P12_PASSWORD="$MACOS_CERT_PASSWORD" \
             Scripts/create-signing-identity.sh
           rm -f "$P12"
+          # On GitHub's macOS runners codesign reported "no identity found" for a keychain that
+          # wasn't on the search list, even with --keychain, so add it. The runner is thrown
+          # away after the job, so this changes nothing that lasts.
+          security list-keychains -d user -s "$EMOJI_PICKER_KEYCHAIN" \
+            $(security list-keychains -d user | tr -d '"')
+          security list-keychains -d user
+          security find-identity -p codesigning
+          # Sign a throwaway copy of a system binary now, so a signing problem fails the run in
+          # seconds rather than after the build.
+          security unlock-keychain -p "$(cat "${EMOJI_PICKER_KEYCHAIN%.keychain-db}.pass")" "$EMOJI_PICKER_KEYCHAIN"
+          hash="$(security find-identity -p codesigning "$EMOJI_PICKER_KEYCHAIN" \
+            | awk -v name="\"$EMOJI_PICKER_IDENTITY\"" 'index($0, name) { print $2; exit }')"
+          cp /usr/bin/true "$RUNNER_TEMP/signing-check"
+          codesign --force --keychain "$EMOJI_PICKER_KEYCHAIN" --sign "$hash" "$RUNNER_TEMP/signing-check"
+          codesign -d -r- "$RUNNER_TEMP/signing-check" 2>&1 | grep 'certificate leaf'
+
+      - name: Run tests
+        run: swift test -j 1
 
       - name: Work out the version
         id: version
