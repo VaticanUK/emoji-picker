@@ -249,6 +249,8 @@ Replace `<tag>` with a [cldr-json release tag](https://github.com/unicode-org/cl
 
 ## Data sources and licences
 
+Emoji Picker is released under the [MIT License](LICENSE).
+
 - Emoji names and keywords: Unicode emoji-test.txt and CLDR English annotations, under the Unicode License v3.
 - GIFs: GIPHY (see above).
 
