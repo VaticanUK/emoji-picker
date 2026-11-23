@@ -14,6 +14,8 @@ final class PickerViewController: NSViewController {
     private var tabs: [PickerTab: PickerTabContent] = [:]
     private(set) var current: PickerTab
     private var zone: PickerZone = .search
+    /// On the GIF tab because an emoji search found nothing; clearing the query goes back.
+    private var switchedFromEmoji = false
 
     /// Area below the search field that hosts the tab content.
     static let contentSize = NSSize(width: PickerPanel.size.width, height: 340)
@@ -76,15 +78,18 @@ final class PickerViewController: NSViewController {
     /// Call after the panel is dismissed: clears the query and lays everything out while hidden.
     func resetForNextOpen() {
         searchField.clear()
+        if switchedFromEmoji { select(.emoji, remember: false) }
         for content in tabs.values { content.setQuery("") }
         view.layoutSubtreeIfNeeded()
     }
 
-    private func select(_ tab: PickerTab) {
+    /// `remember` saves the tab to reopen next time; automatic switches don't.
+    private func select(_ tab: PickerTab, remember: Bool = true) {
         guard tab != current else { return }
+        switchedFromEmoji = false
         tabs[current]?.view.isHidden = true
         current = tab
-        UserDefaults.standard.set(tab.rawValue, forKey: Self.lastTabKey)
+        if remember { UserDefaults.standard.set(tab.rawValue, forKey: Self.lastTabKey) }
         show(tab)
         activeTab.setQuery(searchField.stringValue)
         activeTab.didShow()
@@ -104,10 +109,19 @@ final class PickerViewController: NSViewController {
         activeTab.focusChanged(to: zone)
     }
 
-    /// Typing goes to the search field whatever the zone, so focus follows it there.
+    /// Typing goes to the search field whatever the zone, so focus follows it there. A query that
+    /// finds no emoji moves to the GIF tab, which searches the same text; clearing it moves back.
     private func queryChanged(_ text: String) {
         if zone != .search { setZone(.search) }
+        if switchedFromEmoji, text.isEmpty {
+            select(.emoji, remember: false)
+            return
+        }
         activeTab.setQuery(text)
+        if current == .emoji, activeTab.hasNoResults {
+            select(.gif, remember: false)
+            switchedFromEmoji = true
+        }
     }
 
     /// Returns true when the key is used up; false lets the search field handle it as text.

@@ -35,6 +35,12 @@ protocol PickerTabContent: AnyObject {
     func focusChanged(to zone: PickerZone)
     /// The tab became visible (picker opened, or switched to): reset highlight and scroll.
     func didShow()
+    /// The current query is non-empty and matched nothing.
+    var hasNoResults: Bool { get }
+}
+
+extension PickerTabContent {
+    var hasNoResults: Bool { false }
 }
 
 /// The shared search/content behaviour. In search, ↓ enters the content and Return activates the

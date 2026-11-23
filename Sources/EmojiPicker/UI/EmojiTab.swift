@@ -120,6 +120,8 @@ final class EmojiTab: PickerTabContent {
         }
     }
 
+    var hasNoResults: Bool { !query.isEmpty && shown.allSatisfy(\.isEmpty) }
+
     func didShow() {
         hideSwatches()
         if recentsChanged { rebuild() }
