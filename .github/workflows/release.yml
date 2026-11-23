@@ -2,6 +2,8 @@
 #
 #   git tag v1.0.0 && git push origin v1.0.0
 #
+# or when a release is created on GitHub (the build is then added to that release).
+#
 # Running it by hand from the Actions tab builds the app and attaches the zip to the run instead
 # of publishing a release.
 #
@@ -109,10 +111,15 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh release create "$GITHUB_REF_NAME" \
-            "${{ steps.package.outputs.zip }}" "${{ steps.package.outputs.zip }}.sha256" \
-            --title "Emoji Picker ${{ steps.version.outputs.version }}" \
-            --generate-notes
+          ZIP="${{ steps.package.outputs.zip }}"
+          # A release made on GitHub creates the tag that runs this, so it may already exist.
+          if gh release view "$GITHUB_REF_NAME" >/dev/null 2>&1; then
+            gh release upload "$GITHUB_REF_NAME" "$ZIP" "$ZIP.sha256" --clobber
+          else
+            gh release create "$GITHUB_REF_NAME" "$ZIP" "$ZIP.sha256" \
+              --title "Emoji Picker ${{ steps.version.outputs.version }}" \
+              --generate-notes
+          fi
 
       - name: Attach the build to the run
         if: github.ref_type != 'tag'
