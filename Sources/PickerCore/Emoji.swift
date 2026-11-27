@@ -56,8 +56,17 @@ public struct EmojiCatalog: Sendable {
     }
 
     /// Every query word must prefix-match a word of the name or keywords.
-    /// Ranked: exact name, then all words match name words, then keyword matches.
+    /// Ranked: the emoji an emoticon such as `:)` stands for, then exact name, then all words
+    /// match name words, then keyword matches.
     public func search(_ q: String) -> [Emoji] {
+        let wordMatches = searchWords(q)
+        guard let target = Emoticons.emoji(for: q),
+              let hit = emojis.first(where: { $0.e == target })
+        else { return wordMatches }
+        return [hit] + wordMatches.filter { $0.e != target }
+    }
+
+    private func searchWords(_ q: String) -> [Emoji] {
         let query = Self.words(q)
         guard !query.isEmpty else { return [] }
         let whole = Self.fold(q).trimmingCharacters(in: .whitespacesAndNewlines)

@@ -26,6 +26,32 @@ import Testing
         #expect(cat.search("cat").first?.n == "cat")
     }
 
+    @Test func emoticonRanksItsEmojiFirst() throws {
+        let cat = try EmojiCatalog.loadBundled()
+        let cases = [
+            ":)": "🙂", ":-)": "🙂", ";)": "😉", ":p": "😛", ":P": "😛", ":-P": "😛",
+            ":D": "😃", ":(": "🙁", ":'(": "😢", "<3": "❤️", "</3": "💔", " :) ": "🙂",
+        ]
+        for (typed, emoji) in cases {
+            #expect(cat.search(typed).first?.e == emoji, "\(typed)")
+        }
+    }
+
+    @Test func emoticonDoesNotRepeatItsEmoji() throws {
+        let cat = try EmojiCatalog.loadBundled()
+        let results = cat.search(":p")
+        #expect(results.filter { $0.e == "😛" }.count == 1)
+        #expect(results.count > 1)
+    }
+
+    @Test func everyEmoticonNamesABundledEmoji() throws {
+        let cat = try EmojiCatalog.loadBundled()
+        let known = Set(cat.emojis.map(\.e))
+        for (typed, emoji) in Emoticons.table {
+            #expect(known.contains(emoji), "\(typed) -> \(emoji)")
+        }
+    }
+
     @Test func skinTone() throws {
         let cat = try EmojiCatalog.loadBundled()
         let thumbs = try #require(cat.emojis.first { $0.e == "👍" })
